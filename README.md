@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Jonus Nattapong, a passionate developer with a
 - 💻 I specialize in Full Stack Development
 - 🌱 I’m currently learning Advanced React and Node.js
 - 🤖 I have a strong interest in AI & ML technologies
-- :thailand:  I'm a part of the Thailand AI Solutions community
+- 🐘 I'm a part of the Thailand AI Solutions community
 - 👯 I’m looking to collaborate on open-source projects
 - 📫 How to reach me: [jonusnattapong@gmail.com](mailto:jonusnattapong@gmail.com)
 
