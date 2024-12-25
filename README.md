@@ -35,6 +35,8 @@ Welcome to my GitHub profile! I'm Jonus Nattapong, a passionate developer with a
 
 ### Connect with Me
 
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/jonus.jn.5)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/jonus.co.th/)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?logo=hugging-face&logoColor=white&style=flat)](https://huggingface.co/JonusNattapong)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/JonusNattapong)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat)](https://leetcode.com/u/JonusNattapong/)
