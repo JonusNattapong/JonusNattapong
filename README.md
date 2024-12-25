@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Jonus Nattapong, a passionate developer with a
 - 🤖 I have a strong interest in AI & ML technologies
 - 🇹🇭 I'm a part of the Thailand AI Solutions community
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [jonusnattapong@gmail.com](mailto:jonusnattapong@gmail.com)
 
 ### My Skills
 
