@@ -27,11 +27,6 @@ Welcome to my GitHub profile! I'm Jonus Nattapong, a passionate developer with a
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
-### Projects
-
-- [Project One](https://github.com/JonusNattapong/project-one): Description of project one.
-- [Project Two](https://github.com/JonusNattapong/project-two): Description of project two.
-
 ### Connect with Me
 
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/jonus.jn.5)
