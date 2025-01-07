@@ -56,7 +56,7 @@ Thanks for visiting my profile! Have a great day!
 
 # Thailand AI Solutions
 
-![Logo](https://media.discordapp.net/attachments/1230458621251420233/1321319726286245918/DALLE_2024-12-25_09.59.16_-_A_hyper-realistic_8K_image_of_a_logo_for_Thailand_AI_Solutions_featuring_elements_that_represent_both_Thailand_and_AI_technology._The_design_includ.png?ex=676cce63&is=676b7ce3&hm=5db766d5fa7004b3533e1efab41fc4fe3fc3f0b088c5dba740b768a4463bd14b&=&format=webp&quality=lossless&width=437&height=437)
+![Logo][(https://media.discordapp.net/attachments/1230458621251420233/1321319726286245918/DALLE_2024-12-25_09.59.16_-_A_hyper-realistic_8K_image_of_a_logo_for_Thailand_AI_Solutions_featuring_elements_that_represent_both_Thailand_and_AI_technology._The_design_includ.png?ex=676cce63&is=676b7ce3&hm=5db766d5fa7004b3533e1efab41fc4fe3fc3f0b088c5dba740b768a4463bd14b&=&format=webp&quality=lossless&width=437&height=437)](https://drive.google.com/drive/u/0/home)
 
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD700?logo=hugging-face&logoColor=white&style=flat)](https://huggingface.co/ThailandAISolutions)
 
