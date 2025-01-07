@@ -49,7 +49,7 @@ Thanks for visiting my profile! Have a great day!
 
 ---
 
-# Thailand AI Solutions
+# SiamTech
 
 ![Logo](https://cdn.discordapp.com/attachments/1230458621251420233/1326043500952686682/image_3.webp?ex=677dfdbf&is=677cac3f&hm=65e36661175acf875ad90d6fb6feb355cd28584d8cc22be5403631c9a03274bd&)
 
