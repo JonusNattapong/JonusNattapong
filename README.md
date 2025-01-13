@@ -1,5 +1,3 @@
-Here’s a refined version of your GitHub profile with improved structure, readability, and consistency:
-
 ---
 
 # GitHub Profile: Jonus Nattapong
@@ -174,5 +172,3 @@ Proud member of **SiamTech**, a community driving AI innovation in Thailand. Foc
 - **Project Link**: [https://github.com/SiamTech/ThaiLocal](https://github.com/SiamTech/ThaiLocal)  
 
 ---
-
-This version is more concise, visually appealing, and professional, making it suitable for a GitHub profile or portfolio. Let me know if you need further adjustments!
