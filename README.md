@@ -128,17 +128,6 @@ Proud member of **SiamTech**, a community driving AI innovation in Thailand. Foc
 
 ---
 
-### Education & Certifications
-
-- **Rajamangala University of Technology Isan**  
-  - Bachelor's Degree in [Major Name], Faculty of [Faculty Name].  
-  - GPA: [GPA], Academic Year: 2566 (2023), Currently Studying.  
-
-- **[Certification Name]**, *Issuing Organization*, *Year*.  
-- **[Certification Name]**, *Issuing Organization*, *Year*.  
-
----
-
 ### Contact
 
 - **Email**: jonusnattapong@gmail.com | jonus.n@siamtech.ai  
