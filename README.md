@@ -70,7 +70,7 @@ Passionate **Full Stack Developer** and **AI Engineer** with expertise in AI/ML 
   - Technologies: PyTorch, Transformers, OpenCV, FastAPI.  
 
 - **SCADA Systems Enhancement**  
-  - Improved real-time processing efficiency by **20%**.  
+  - Improved real-time processing 
   - Implemented **AI-driven predictive analytics** for industrial systems.  
   - Integrated **PLC** and **Ignition** for industrial control systems.  
   - Technologies: SQL Server, Docker, Python.  
