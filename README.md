@@ -61,7 +61,6 @@ Passionate **Full Stack Developer** and **AI Engineer** with expertise in AI/ML 
 ### Professional Experience
 
 #### **AI Systems Engineer & Full Stack Developer** | SiamTech  
-*2023 - Present*
 
 - **DARVIS (Digital Assistant with Real-time Vision and Intelligence System)**  
   - Architected and implemented a real-time computer vision system using **PyTorch** and **MediaPipe**.  
