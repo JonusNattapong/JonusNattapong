@@ -1,6 +1,6 @@
 # GitHub Profile: Jonus Nattapong
 
-## AI Engineer & Full Stack Developer | SiamTech
+## AI Engineer | SiamTech & Full Stack Developer | Prompt
 
 ---
 
