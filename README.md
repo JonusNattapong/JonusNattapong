@@ -155,6 +155,13 @@ I’m a relentless innovator **fusing code, AI, and creativity** into mind-blowi
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1230458621251420233/1321319726286245918/DALLE_2024-12-25_09.59.16_-_A_hyper-realistic_8K_image_of_a_logo_for_Thailand_AI_Solutions_featuring_elements_that_represent_both_Thailand_and_AI_technology._The_design_includ.png?ex=67d3a363&is=67d251e3&hm=72722e6cf5b9753a287f36e159157094e746268983df2b2881df233c2ec6a5d9&" width="400px" alt="Cyber Glitch">
+<!-- Animated Snake Chart -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
   <h3>🌌 **_WELCOME TO THE CODE MATRIX_** 🌌</h3>
 </div>
