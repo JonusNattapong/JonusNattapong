@@ -208,7 +208,7 @@ Terraform    █░░░░░░░░░░░░░░░░   05%  //  Infr
   <a href="http://leetcode.com/u/JonusNattapong/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://linkedin.com/in/jonus-nattapong" target="_blank">
+  <a href="https://linkedin.com/in/nattapong-tapachoom-7b3973301" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
