@@ -93,33 +93,24 @@ I'm a passionate software developer who thrives on building innovative solutions
 ## 🏆 Featured Projects
 
 <div align="center">
-<a href="https://github.com/JonusNattapong/Notebook-Git-Colab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Notebook-Git-Colab&theme=radical&hide_border=true&bg_color=1a1b27&title_color=F85D7F&icon_color=F8D866&text_color=a9fef7" width="49%" />
-</a>
-<a href="https://github.com/JonusNattapong/Crewzombitx64">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Crewzombitx64&theme=radical&hide_border=true&bg_color=1a1b27&title_color=F85D7F&icon_color=F8D866&text_color=a9fef7" width="49%" />
-</a>
-<a href="https://github.com/JonusNattapong/Advanced-Reinforcement-Learning-Framework">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Advanced-Reinforcement-Learning-Framework&theme=radical&hide_border=true&bg_color=1a1b27&title_color=F85D7F&icon_color=F8D866&text_color=a9fef7" width="49%" />
-</a>
-<a href="https://github.com/JonusNattapong/Datasetzombitx64">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Datasetzombitx64&theme=radical&hide_border=true&bg_color=1a1b27&title_color=F85D7F&icon_color=F8D866&text_color=a9fef7" width="49%" />
-</a>
-</div>
-
-## ⏱️ Weekly Coding Stats
-
-<div align="center">
-  
-<!--START_SECTION:waka-->
-```text
-JavaScript   ████████████░░░░░   60%  //  Building interactive frontends & API backends
-Python       ███████░░░░░░░░░░   35%  //  AI models & data processing pipelines
-Docker       ██░░░░░░░░░░░░░░░   10%  //  Container orchestration & deployment
-Other        █░░░░░░░░░░░░░░░░   05%  //  DevOps & system configuration
-```
-<!--END_SECTION:waka-->
-
+    <a href="https://github.com/JonusNattapong/Crewzombitx64">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Crewzombitx64&theme=tokyonight&hide_border=true" alt="Crewzombitx64" />
+    </a>
+    <a href="https://github.com/JonusNattapong/DatasetPokerzombitx64">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=DatasetPokerzombitx64&theme=tokyonight&hide_border=true" alt="DatasetPokerzombitx64" />
+    </a>
+    <a href="https://github.com/JonusNattapong/Advanced-Reinforcement-Learning-Framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Advanced-Reinforcement-Learning-Framework&theme=tokyonight&hide_border=true" alt="Advanced-Reinforcement-Learning-Framework" />
+    </a>
+    <a href="https://github.com/JonusNattapong/Zombitx64-officiel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Zombitx64-officiel&theme=tokyonight&hide_border=true" alt="Zombitx64-officiel" />
+    </a>
+    <a href="https://github.com/JonusNattapong/Notebook-Git-Colab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Notebook-Git-Colab&theme=tokyonight&hide_border=true" alt="Notebook-Git-Colab" />
+    </a>
+    <a href="https://github.com/JonusNattapong/Datasetzombitx64">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Datasetzombitx64&theme=tokyonight&hide_border=true" alt="Datasetzombitx64" />
+    </a>
 </div>
 
 <div align="center">
