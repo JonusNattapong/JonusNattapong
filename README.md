@@ -142,11 +142,14 @@ I’m a relentless innovator **fusing code, AI, and creativity** into mind-blowi
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 👾 **PROFILE SCANS**
 
 [![Profile views](https://komarev.com/ghpvc/?username=JonusNattapong&style=for-the-badge&color=1B263B&labelColor=0D1B2A&label=SYSTEM+SCANS&color=FFFFFF)](https://komarev.com/ghpvc/?username=JonusNattapong)
+</div>
+
+<div align="left">
 
 ### 💰 **FUEL MY CIRCUITS**
 
