@@ -87,6 +87,7 @@ I'm a passionate software developer who thrives on building innovative solutions
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonusNattapong&theme=radical&hide_border=true&background=1a1b27&stroke=F85D7F&fire=F85D7F&ring=F85D7F&currStreakLabel=a9fef7" alt="Jonus's GitHub Streak" width="49%" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonusNattapong&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=F85D7F&text_color=a9fef7" alt="Jonus's Top Languages" width="49%" />
 </div>
 
