@@ -78,7 +78,7 @@ I’m a relentless innovator **fusing code, AI, and creativity** into mind-blowi
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=JonusNattapong&theme=onedark&no-bg=true&margin-w=15" width="100%" />
 </div>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonusNattapong&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0D1B2A&title_color=FFFFFF&text_color=FFFFFF" width="49%" />
 </div>
 <div align="center">
