@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F85D7F&background=1A1B27&center=true&vCenter=true&random=false&width=600&height=60&lines=Full+Stack+Developer;AI+Enthusiast;Creative+Problem+Solver;Welcome+To+My+Digital+Universe)](https://git.io/typing-svg)
 
-<img src="https://i.imgur.com/Yr11Vhe.gif" width="600px">
+<!-- <img src="https://i.imgur.com/Yr11Vhe.gif" width="600px"> -->
 
 </div>
 
