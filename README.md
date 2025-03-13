@@ -79,12 +79,11 @@ I’m a relentless innovator **fusing code, AI, and creativity** into mind-blowi
 <img src="https://github-profile-trophy.vercel.app/?username=JonusNattapong&theme=onedark&no-bg=true&margin-w=15" width="49%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonusNattapong&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1B2A&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" width="49%" />
-</div>
-<div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonusNattapong&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1B2A&title_color=FFFFFF&text_color=FFFFFF" width="49%" />
  </div>
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JonusNattapong&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1B2A&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" width="49%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonusNattapong&theme=midnight-purple&hide_border=true&background=0D1B2A&stroke=415A77&fire=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF" width="49%" />
 </div>
 <div align="center">
