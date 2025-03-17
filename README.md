@@ -22,12 +22,12 @@
 
 </div>
 
-<!-- GitHub Activity -->
+<!-- Animated Snake Chart -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JonusNattapong/JonusNattapong/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JonusNattapong/JonusNattapong/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/JonusNattapong/JonusNattapong/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
@@ -286,4 +286,3 @@ I'm a relentless innovator **fusing code, AI, and creativity** into mind-blowing
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer&text=SYSTEM%20OFFLINE&fontSize=24&fontColor=0D1B2A&animation=fadeIn"/>
 </div>
-```
