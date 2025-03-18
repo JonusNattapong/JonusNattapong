@@ -282,7 +282,3 @@ I'm a relentless innovator **fusing code, AI, and creativity** into mind-blowing
 [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Boost+My+Code&emoji=%E2%9A%A1%EF%B8%8F&slug=jonusnattapong&button_colour=00FFFF&font_colour=0D1B2A&font_family=Orbitron&outline_colour=415A77&coffee_colour=FFFFFF)](https://www.buymeacoffee.com/jonusnattapong)
 
 </div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer&text=SYSTEM%20OFFLINE&fontSize=24&fontColor=0D1B2A&animation=fadeIn"/>
-</div>
