@@ -216,36 +216,6 @@ I'm a relentless innovator **fusing code, AI, and creativity** into mind-blowing
 
 ---
 
-## <div align="center">📚 **CODE CHRONICLES** 📚</div>
-
-<div align="center">
-  <!-- Blog or recent activity section -->
-  <table>
-    <tr>
-      <th>📝 Latest Blog Posts</th>
-      <th>🎬 Latest YouTube Videos</th>
-    </tr>
-    <tr>
-      <td>
-        <ul>
-          <li><a href="#">Building Neural Networks From Scratch</a></li>
-          <li><a href="#">The Future of Quantum Computing in AI</a></li>
-          <li><a href="#">Advanced Python Patterns for Data Scientists</a></li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li><a href="#">Creating a Cyberpunk UI with React</a></li>
-          <li><a href="#">Mastering AI Agents in 30 Minutes</a></li>
-          <li><a href="#">Live Coding: Building a Data Pipeline</a></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## <div align="center">🌐 **NEURAL CONNECTIONS** 🌐</div>
 
 <div align="center">
