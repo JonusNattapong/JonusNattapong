@@ -2,7 +2,7 @@
 
 # 🌌 **ZOMBITX64 | JONUS NATTAPONG** 🌠
 
-### ⚡️ **FULL STACK DEVELOPER | AI VISIONARY | CODE ALCHEMIST** ⚡️
+### ⚡️ **FULL STACK DEVELOPER | AI VISIONARY | CODE ALCHEMIST | Automation Script** ⚡️
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2500&pause=500&color=00FFFF&background=0D1B2A00&center=true&vCenter=true&random=false&width=650&height=80&lines=Coding+the+Future;Mastering+AI+Realms;Unleashing+Digital+Chaos;Welcome+to+My+Cyber+Universe)](https://git.io/typing-svg)
 
