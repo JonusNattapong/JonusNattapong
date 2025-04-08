@@ -220,12 +220,12 @@
 
 ## <div align="center">🧠 **3D CONTRIBUTIONS** 🧠</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=3D-Contributions&theme=radical&bg_color=0D1B2A&title_color=00FFFF&icon_color=F8D866&text_color=FFFFFF&border_color=1B263B&hide_border=true" alt="3D Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=JonusNattapong&theme=radical&bg_color=0D1B2A&title_color=00FFFF&icon_color=F8D866&text_color=FFFFFF&border_color=1B263B&hide_border=true" alt="3D Contributions" />
   <br>
-  <a href="https://github.com/JonusNattapong/3D-Contributions" target="_blank">
+  <a href="https://github.com/JonusNattapong" target="_blank">
     <img src="https://img.shields.io/badge/CODE-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1B2A"/>
   </a>
-  <a href="https://github.com/JonusNattapong/3D-Contributions" target="_blank">
+  <a href="https://github.com/JonusNattapong" target="_blank">
     <img src="https://img.shields.io/badge/LIVE-FF4500?style=for-the-badge&logo=firefox&logoColor=FF4500&labelColor=0D1B2A"/>
   </a>
 </div>
