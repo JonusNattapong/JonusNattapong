@@ -122,12 +122,10 @@
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonusNattapong&theme=react-dark&bg_color=0D1B2A&color=FFFFFF&line=00FFFF&point=FF4500&area=true&area_color=1B263B&hide_border=true" width="98%" />
  </div>
 
- <!-- Add the 3D contribution calendar -->
- <div align="center">
-   <picture>
-     <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-   </picture>
- </div>
+## <div align="center">🧠 **3D CONTRIBUTIONS** 🧠</div>
+<div align="center">
+  <img src="https://github.com/JonusNattapong/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
 
  ---
 
