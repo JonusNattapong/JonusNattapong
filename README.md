@@ -2,270 +2,191 @@
 
 # 🌌 **ZOMBITX64 | JONUS NATTAPONG** 🌠
 
-### ⚡️ **FULL STACK DEVELOPER | AI VISIONARY | CODE ALCHEMIST | AUTOMATION SCRIPT** ⚡️
+### ✨ **FULL STACK DEVELOPER | AI VISIONARY | SOFTWARE ARCHITECT | AUTOMATION EXPERT** ✨
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=2500&pause=500&color=00FFFF&background=0D1B2A00&center=true&vCenter=true&random=false&width=650&height=80&lines=Coding+the+Future;Mastering+AI+Realms;Unleashing+Digital+Chaos;Welcome+to+My+Cyber+Universe)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2500&pause=500&color=2E86C1&background=FFFFFF00&center=true&vCenter=true&random=false&width=650&height=80&lines=Building+Innovative+Solutions;Exploring+AI+Frontiers;Crafting+Elegant+Code;Welcome+to+My+Digital+Space)](https://git.io/typing-svg)
 
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" alt="Cyberpunk Animation">
-
- </div>
-
- <div align="center">
-
- [![GitHub](https://img.shields.io/badge/GitHub-ZombitX64-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1B2A)](https://github.com/ZombitX64)
- [![LeetCode](https://img.shields.io/badge/LeetCode-JonusNattapong-FF5733?style=for-the-badge&logo=leetcode&logoColor=FF5733&labelColor=0D1B2A)](http://leetcode.com/u/JonusNattapong/)
- [![YouTube](https://img.shields.io/badge/YouTube-ZombitX64-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0D1B2A)](https://www.youtube.com/@ZombitX64)
- [![Instagram](https://img.shields.io/badge/Instagram-zombitx64-E1306C?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=0D1B2A)](https://www.instagram.com/zombitx64)
- [![HuggingFace](https://img.shields.io/badge/HuggingFace-ZombitX64-FFFF00?style=for-the-badge&logo=huggingface&logoColor=FFFF00&labelColor=0D1B2A)](https://huggingface.co/ZombitX64)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonus_Nattapong-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1B2A)](https://linkedin.com/in/nattapong-tapachoom-7b3973301)
- [![Email](https://img.shields.io/badge/Email-Contact_Me-4CAF50?style=for-the-badge&logo=gmail&logoColor=4CAF50&labelColor=0D1B2A)](mailto:your_email@example.com)
-
- </div>
-
- <!-- Animated Snake Chart -->
- <div align="center">
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-   </picture>
- </div>
-
- ---
-
-## <div align="center">🧠 **WHO AM I?** 🧠</div>
-
- <div align="center">
- <img align="right" height="250" width="375" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp4ODB6aGQ5amN5YnFqZWd3aXpteng3N3pwa3pnNmIwNWZzcmdvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" />
- </div>
-
- > _"I don't predict the future—I CODE IT."_ – **ZombitX64**
-
- I'm a relentless innovator **fusing code, AI, and creativity** into mind-blowing solutions. With a cybernetic heart and a computer engineering soul, I hack reality to build the impossible.
-
-- 🔭 **Current Mission:** AI-Powered Systems & Data Crawling Overdrive
-- 🌌 **Leveling Up:** Quantum ML Deployment & Hyper-Containerized Microservices
-- 💡 **Ping Me About:** Python Wizardry, API Domination, AI Alchemy
-- ⚡️ **Random Byte:** I turn data storms into pixel-perfect symphonies
-- 🔮 **Secret Skill:** Converting caffeine into neural networks at 3AM
-
- ---
-
-## <div align="center">💾 **TECH ARSENAL** 💾</div>
-
- <table align="center">
-   <tr>
-     <td>
-       <h3 align="center">🔥 LANGUAGES & FRAMEWORKS</h3>
-       <div align="center">
-         <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&labelColor=0D1B2A&logoColor=00FFFF" alt="Python"/>
-         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=0D1B2A&logoColor=00FFFF" alt="JavaScript"/>
-         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1B2A&logoColor=00FFFF" alt="TypeScript"/>
-         <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&labelColor=0D1B2A&logoColor=00FFFF" alt="React"/>
-         <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&labelColor=0D1B2A&logoColor=00FFFF" alt="Node.js"/>
-         <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&labelColor=0D1B2A&logoColor=00FFFF" alt="Java"/>
-       </div>
-     </td>
-     <td>
-       <h3 align="center">🤖 AI & DATA SCIENCE</h3>
-       <div align="center">
-         <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&labelColor=0D1B2A&logoColor=00FFFF" alt="TensorFlow"/>
-         <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=0D1B2A&logoColor=00FFFF" alt="PyTorch"/>
-         <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&labelColor=0D1B2A&logoColor=00FFFF" alt="Pandas"/>
-         <img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&labelColor=0D1B2A&logoColor=00FFFF" alt="Scikit-Learn"/>
-         <img src="https://img.shields.io/badge/-NLTK-00C4CC?style=for-the-badge&logo=python&labelColor=0D1B2A&logoColor=00FFFF" alt="NLTK"/>
-         <img src="https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&labelColor=0D1B2A&logoColor=00FFFF" alt="CUDA"/>
-       </div>
-     </td>
-   </tr>
-   <tr>
-     <td>
-       <h3 align="center">🛠️ DEVOPS & CYBER TOOLS</h3>
-       <div align="center">
-         <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&labelColor=0D1B2A&logoColor=00FFFF" alt="Docker"/>
-         <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&labelColor=0D1B2A&logoColor=00FFFF" alt="Kubernetes"/>
-         <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&labelColor=0D1B2A&logoColor=00FFFF" alt="AWS"/>
-         <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&labelColor=0D1B2A&logoColor=00FFFF" alt="Git"/>
-         <img src="https://img.shields.io/badge/-CI/CD-4CAF50?style=for-the-badge&logo=jenkins&labelColor=0D1B2A&logoColor=00FFFF" alt="CI/CD"/>
-       </div>
-     </td>
-     <td>
-       <h3 align="center">💽 DATA VAULTS</h3>
-       <div align="center">
-         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=0D1B2A&logoColor=00FFFF" alt="MySQL"/>
-         <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=0D1B2A&logoColor=00FFFF" alt="MongoDB"/>
-         <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&labelColor=0D1B2A&logoColor=00FFFF" alt="PostgreSQL"/>
-         <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&labelColor=0D1B2A&logoColor=00FFFF" alt="Redis"/>
-         <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&labelColor=0D1B2A&logoColor=00FFFF" alt="GraphQL"/>
-       </div>
-     </td>
-   </tr>
- </table>
-
-## <div align="center">📊 **NEURAL NETWORK METRICS** 📊</div>
-
- <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=JonusNattapong&theme=darkhub&no-bg=true&no-frame=true&column=7&margin-w=15" width="100%" alt="Trophies"/>
- </div>
-
- <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonusNattapong&show_icons=true&theme=radical&bg_color=0D1B2A&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=1B263B&hide_border=true&count_private=true" />
-
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonusNattapong&layout=compact&langs_count=8&theme=radical&bg_color=0D1B2A&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=1B263B&hide_border=true" />
- </div>
-
- <div align="center">
-   <img src="https://streak-stats.demolab.com?user=JonusNattapong&theme=dark&background=0D1B2A&ring=00FFFF&fire=FF4500&currStreakLabel=00FFFF&sideLabels=00FFFF&currStreakNum=FFFFFF&border=1B263B&stroke=1B263B&hide_border=true" />
- </div>
-
- <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonusNattapong&theme=react-dark&bg_color=0D1B2A&color=FFFFFF&line=00FFFF&point=FF4500&area=true&area_color=1B263B&hide_border=true" width="98%" />
- </div>
-
-## <div align="center">🧠 **3D CONTRIBUTIONS** 🧠</div>
-<div align="center">
-  <img src="https://github.com/JonusNattapong/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
-
- ---
-
-## <div align="center">🌟 **DIGITAL CREATIONS** 🌟</div>
-
- <div class="projects-table" align="center">
- <table>
-   <tr>
-     <td width="50%">
-       <h3 align="center">Crewzombitx64</h3>
-       <div align="center">  
-         <a href="https://github.com/JonusNattapong/Crewzombitx64" target="_blank">
-           <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Crewzombitx64&theme=radical&bg_color=0D1B2A&title_color=00FFFF&icon_color=F8D866&text_color=FFFFFF&border_color=1B263B&hide_border=true" alt="Project Card" />
-         </a>
-         <br>
-         <br>
-         <p>
-           <a href="https://github.com/JonusNattapong/Crewzombitx64" target="_blank">
-             <img src="https://img.shields.io/badge/CODE-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1B2A"/>
-           </a>
-           <a href="https://github.com/JonusNattapong/Crewzombitx64" target="_blank">
-             <img src="https://img.shields.io/badge/LIVE-FF4500?style=for-the-badge&logo=firefox&logoColor=FF4500&labelColor=0D1B2A"/>
-           </a>
-         </p>
-       </div>
-     </td>
-     <td width="50%">
-       <h3 align="center">DatasetPokerzombitx64</h3>
-       <div align="center">  
-         <a href="https://github.com/JonusNattapong/DatasetPokerzombitx64" target="_blank">
-           <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=DatasetPokerzombitx64&theme=radical&bg_color=0D1B2A&title_color=00FFFF&icon_color=F8D866&text_color=FFFFFF&border_color=1B263B&hide_border=true" alt="Project Card" />
-         </a>
-         <br>
-         <br>
-         <p>
-           <a href="https://github.com/JonusNattapong/DatasetPokerzombitx64" target="_blank">
-             <img src="https://img.shields.io/badge/CODE-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1B2A"/>
-           </a>
-           <a href="https://github.com/JonusNattapong/DatasetPokerzombitx64" target="_blank">
-             <img src="https://img.shields.io/badge/LIVE-FF4500?style=for-the-badge&logo=firefox&logoColor=FF4500&labelColor=0D1B2A"/>
-           </a>
-         </p>
-       </div>
-     </td>
-   </tr>
-   <tr>
-     <td width="50%">
-       <h3 align="center">Advanced-Reinforcement-Learning-Framework</h3>
-       <div align="center">  
-         <a href="https://github.com/JonusNattapong/Advanced-Reinforcement-Learning-Framework" target="_blank">
-           <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Advanced-Reinforcement-Learning-Framework&theme=radical&bg_color=0D1B2A&title_color=00FFFF&icon_color=F8D866&text_color=FFFFFF&border_color=1B263B&hide_border=true" alt="Project Card" />
-         </a>
-         <br>
-         <br>
-         <p>
-           <a href="https://github.com/JonusNattapong/Advanced-Reinforcement-Learning-Framework" target="_blank">
-             <img src="https://img.shields.io/badge/CODE-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1B2A"/>
-           </a>
-           <a href="https://github.com/JonusNattapong/Advanced-Reinforcement-Learning-Framework" target="_blank">
-             <img src="https://img.shields.io/badge/LIVE-FF4500?style=for-the-badge&logo=firefox&logoColor=FF4500&labelColor=0D1B2A"/>
-           </a>
-         </p>
-       </div>
-     </td>
-     <td width="50%">
-       <h3 align="center">Zombitx64-officiel</h3>
-       <div align="center">  
-         <a href="https://github.com/JonusNattapong/Zombitx64-officiel" target="_blank">
-           <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Zombitx64-officiel&theme=radical&bg_color=0D1B2A&title_color=00FFFF&icon_color=F8D866&text_color=FFFFFF&border_color=1B263B&hide_border=true" alt="Project Card" />
-         </a>
-         <br>
-         <br>
-         <p>
-           <a href="https://github.com/JonusNattapong/Zombitx64-officiel" target="_blank">
-             <img src="https://img.shields.io/badge/CODE-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1B2A"/>
-           </a>
-           <a href="https://github.com/JonusNattapong/Zombitx64-officiel" target="_blank">
-             <img src="https://img.shields.io/badge/LIVE-FF4500?style=for-the-badge&logo=firefox&logoColor=FF4500&labelColor=0D1B2A"/>
-           </a>
-         </p>
-       </div>
-     </td>
-   </tr>
- </table>
- </div>
-
- ---
-
-## <div align="center">🌐 **NEURAL CONNECTIONS** 🌐</div>
-
-## <div align="center">🧠 **3D CONTRIBUTIONS** 🧠</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=JonusNattapong&theme=radical&bg_color=0D1B2A&title_color=00FFFF&icon_color=F8D866&text_color=FFFFFF&border_color=1B263B&hide_border=true" alt="3D Contributions" />
-  <br>
-  <a href="https://github.com/JonusNattapong" target="_blank">
-    <img src="https://img.shields.io/badge/CODE-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1B2A"/>
-  </a>
-  <a href="https://github.com/JonusNattapong" target="_blank">
-    <img src="https://img.shields.io/badge/LIVE-FF4500?style=for-the-badge&logo=firefox&logoColor=FF4500&labelColor=0D1B2A"/>
-  </a>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9Evyhfg/giphy.gif" width="500px" alt="Modern Coding Animation">
 </div>
 
 <div align="center">
-  <a href="https://github.com/zombitx64" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1B2A" alt="GitHub">
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-ZombitX64-2E86C1?style=for-the-badge&logo=github&logoColor=white&labelColor=EAECEE)](https://github.com/ZombitX64)
+[![LeetCode](https://img.shields.io/badge/LeetCode-JonusNattapong-F39C12?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=EAECEE)](http://leetcode.com/u/JonusNattapong/)
+[![YouTube](https://img.shields.io/badge/YouTube-ZombitX64-E74C3C?style=for-the-badge&logo=youtube&logoColor=white&labelColor=EAECEE)](https://www.youtube.com/@ZombitX64) [![Instagram](https://img.shields.io/badge/Instagram-zombitx64-C71585?style=for-the-badge&logo=instagram&logoColor=white&labelColor=EAECEE)](https://www.instagram.com/zombitx64)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-ZombitX64-F1C40F?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=EAECEE)](https://huggingface.co/ZombitX64)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonus_Nattapong-3498DB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=EAECEE)](https://linkedin.com/in/nattapong-tapachoom-7b3973301)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-2ECC71?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EAECEE)](mailto:your_email@example.com) </div>
+
+---
+
+## <div align="center">👤 **ABOUT ME** 👤</div>
+
+<div align="center">
+<img align="right" height="250" width="375" alt="Coding GIF" src="https://media.giphy.com/media/3o7btzAQAuFzslGkvS/giphy.gif" />
 </div>
 
+> _"Building the future, one line of code at a time."_ – **ZombitX64**
 
- <div align="center">
-   <a href="https://github.com/zombitx64" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-00FFFF?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1B2A" alt="GitHub">
-   </a>
-   <a href="https://www.youtube.com/@ZombitX64" target="_blank">
-     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0D1B2A" alt="YouTube">
-   </a>
-   <a href="https://www.instagram.com/zombitx64" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=E1306C&labelColor=0D1B2A" alt="Instagram">
-   </a>
-   <a href="https://huggingface.co/ZombitX64" target="_blank">
-     <img src="https://img.shields.io/badge/HuggingFace-FFFF00?style=for-the-badge&logo=huggingface&logoColor=FFFF00&labelColor=0D1B2A" alt="HuggingFace">
-   </a>
-   <a href="http://leetcode.com/u/JonusNattapong/" target="_blank">
-     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1B2A" alt="LeetCode">
-   </a>
-   <a href="https://linkedin.com/in/nattapong-tapachoom-7b3973301" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1B2A" alt="LinkedIn">
-   </a>
- </div>
+I'm a passionate innovator **combining code, AI, and creativity** to build impactful solutions. With a background in computer engineering, I strive to turn complex challenges into elegant digital realities.
 
- ---
+- 🔭 **Currently Working On:** Scalable AI Systems & Efficient Data Pipelines
+- 🌱 **Continuously Learning:** Advanced Cloud Architectures & MLOps Practices
+- 💬 **Ask Me About:** Python Development, API Design, AI Implementation
+- 😄 **Fun Fact:** I enjoy turning complex data into insightful visualizations.
+- 💡 **Collaboration:** Open to collaborating on innovative open-source projects.
 
- <div align="center">
+---
 
-### 👾 **SYSTEM SCAN**
+## <div align="center">🛠️ **MY TECH STACK** 🛠️</div>
 
- [![Profile views](https://komarev.com/ghpvc/?username=JonusNattapong&style=for-the-badge&color=00FFFF&labelColor=0D1B2A&label=PROFILE+VISITORS)](https://github.com/JonusNattapong)
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td style="border: none; padding: 10px;">
+      <h3 align="center"> Lᴀɴɢᴜᴀɢᴇs & Fʀᴀᴍᴇᴡᴏʀᴋs </h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      </div>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <h3 align="center"> AI & Dᴀᴛᴀ Sᴄɪᴇɴᴄᴇ </h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+        <img src="https://img.shields.io/badge/NLTK-34A853?style=flat-square&logo=python&logoColor=white" alt="NLTK"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 10px;">
+      <h3 align="center"> DᴇᴠOᴘs & Tᴏᴏʟs </h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="CI/CD"/>
+      </div>
+    </td>
+    <td style="border: none; padding: 10px;">
+      <h3 align="center"> Dᴀᴛᴀʙᴀsᴇs </h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 💰 **FUEL MY CIRCUITS**
+---
 
- [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Boost+My+Code&emoji=%E2%9A%A1%EF%B8%8F&slug=jonusnattapong&button_colour=00FFFF&font_colour=0D1B2A&font_family=Orbitron&outline_colour=415A77&coffee_colour=FFFFFF)](https://www.buymeacoffee.com/jonusnattapong)
+## <div align="center">📈 **MY GITHUB STATS** 📈</div>
 
- </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JonusNattapong&theme=nord&no-bg=true&no-frame=true&column=7&margin-w=15" width="100%" alt="GitHub Trophies"/>
+  </div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonusNattapong&show_icons=true&theme=merko&bg_color=FFFFFF00&title_color=2E86C1&text_color=34495E&icon_color=2E86C1&border_color=D5DBDB&hide_border=false&count_private=true" alt="JonusNattapong's GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonusNattapong&layout=compact&langs_count=8&theme=merko&bg_color=FFFFFF00&title_color=2E86C1&text_color=34495E&icon_color=2E86C1&border_color=D5DBDB&hide_border=false" alt="Top Languages"/> </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JonusNattapong&theme=nord&background=FFFFFF00&ring=2E86C1&fire=E74C3C&currStreakLabel=2E86C1&sideLabels=34495E&currStreakNum=34495E&border=D5DBDB&hide_border=false" alt="GitHub Streak"/> </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JonusNattapong&theme=react&bg_color=FFFFFF00&color=34495E&line=2E86C1&point=8E44AD&area=true&area_color=E8DAEF&hide_border=false" width="98%" alt="GitHub Activity Graph"/> </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"> </picture>
+</div>
+
+## <div align="center">🎨 **3D CONTRIBUTIONS** 🎨</div>
+<div align="center">
+  <img src="https://github.com/JonusNattapong/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/> </div>
+
+---
+
+## <div align="center">🚀 **FEATURED PROJECTS** 🚀</div>
+
+<div class="projects-table" align="center">
+<table style="border: none; background-color: transparent; width: 90%;">
+  <tr>
+    <td width="50%" style="border: none; padding: 10px;">
+      <h3 align="center">Crewzombitx64</h3>
+      <div align="center">
+        <a href="https://github.com/JonusNattapong/Crewzombitx64" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Crewzombitx64&theme=merko&bg_color=FFFFFF00&title_color=2E86C1&icon_color=2E86C1&text_color=34495E&border_color=D5DBDB&hide_border=false" alt="Crewzombitx64 Project Card" /> </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/JonusNattapong/Crewzombitx64" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-2E86C1?style=for-the-badge&logo=github&logoColor=white&labelColor=EAECEE"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%" style="border: none; padding: 10px;">
+      <h3 align="center">DatasetPokerzombitx64</h3>
+      <div align="center">
+        <a href="https://github.com/JonusNattapong/DatasetPokerzombitx64" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=DatasetPokerzombitx64&theme=merko&bg_color=FFFFFF00&title_color=2E86C1&icon_color=2E86C1&text_color=34495E&border_color=D5DBDB&hide_border=false" alt="DatasetPokerzombitx64 Project Card" /> </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/JonusNattapong/DatasetPokerzombitx64" target="_blank">
+             <img src="https://img.shields.io/badge/View_Code-2E86C1?style=for-the-badge&logo=github&logoColor=white&labelColor=EAECEE"/>
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="border: none; padding: 10px;">
+      <h3 align="center">Advanced-Reinforcement-Learning-Framework</h3>
+      <div align="center">
+        <a href="https://github.com/JonusNattapong/Advanced-Reinforcement-Learning-Framework" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Advanced-Reinforcement-Learning-Framework&theme=merko&bg_color=FFFFFF00&title_color=2E86C1&icon_color=2E86C1&text_color=34495E&border_color=D5DBDB&hide_border=false" alt="Advanced-Reinforcement-Learning-Framework Project Card" /> </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/JonusNattapong/Advanced-Reinforcement-Learning-Framework" target="_blank">
+             <img src="https://img.shields.io/badge/View_Code-2E86C1?style=for-the-badge&logo=github&logoColor=white&labelColor=EAECEE"/>
+          </a>
+        </p>
+      </div>
+    </td>
+    <td width="50%" style="border: none; padding: 10px;">
+      <h3 align="center">Zombitx64-officiel</h3>
+      <div align="center">
+        <a href="https://github.com/JonusNattapong/Zombitx64-officiel" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=JonusNattapong&repo=Zombitx64-officiel&theme=merko&bg_color=FFFFFF00&title_color=2E86C1&icon_color=2E86C1&text_color=34495E&border_color=D5DBDB&hide_border=false" alt="Zombitx64-officiel Project Card" /> </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/JonusNattapong/Zombitx64-officiel" target="_blank">
+             <img src="https://img.shields.io/badge/View_Code-2E86C1?style=for-the-badge&logo=github&logoColor=white&labelColor=EAECEE"/>
+          </a>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<div align="center">
+
+### 📊 **PROFILE VISITORS**
+
+[![Profile views](https://komarev.com/ghpvc/?username=JonusNattapong&style=for-the-badge&color=2E86C1&labelColor=EAECEE&label=PROFILE+VISITORS)](https://github.com/JonusNattapong) ### 🙏 **SUPPORT MY WORK**
+
+[![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Support%20My%20Work&emoji=💡&slug=jonusnattapong&button_colour=2ECC71&font_colour=FFFFFF&font_family=Inter&outline_colour=FFFFFF&coffee_colour=FFDD00)](https://www.buymeacoffee.com/jonusnattapong) </div>
