@@ -1,324 +1,236 @@
-```
-███████╗ ██████╗ ███╗   ███╗██████╗ ██╗████████╗██╗  ██╗ ██████╗ ██╗  ██╗
-╚══███╔╝██╔═══██╗████╗ ████║██╔══██╗██║╚══██╔══╝╚██╗██╔╝██╔════╝ ██║  ██║
-  ███╔╝ ██║   ██║██╔████╔██║██████╔╝██║   ██║    ╚███╔╝ ███████╗ ███████║
- ███╔╝  ██║   ██║██║╚██╔╝██║██╔══██╗██║   ██║    ██╔██╗ ██╔═══██╗╚════██║
-███████╗╚██████╔╝██║ ╚═╝ ██║██████╔╝██║   ██║   ██╔╝ ██╗╚██████╔╝     ██║
-╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝      ╚═╝
-                                                                            
-        SOFTWARE ENGINEER • AI/ML RESEARCH • AUTONOMOUS SYSTEMS            
-                                                                            
-┌─────────────────────────────────────────────────────────────────────────┐
-│ STATUS: [████████████████████] ONLINE                                   │
-│ USER:   ZombitX64                                                       │
-│ REAL:   Jonus Nattapong                                                 │
-│ ACCESS: FULL CLEARANCE GRANTED                                          │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+﻿# Jonus Nattapong
+**Software Engineer • AI/ML Research • Autonomous Systems**
 
 ---
 
-## `$ whoami`
+## Profile
 
-```bash
-┌─[ jonus@mainframe ]─[ ~ ]
-└─╼ $ cat profile.txt
+**Nattapong Tapachoom**  
+Software Engineer & AI Researcher  
+Bangkok, Thailand (UTC+7) | Languages: Thai, English
 
-OPERATOR_ID    : ZombitX64
-FULL_NAME      : Nattapong Tapachoom
-DESIGNATION    : Software Engineer / AI Researcher
-LOCATION       : Bangkok, Thailand
-LANGUAGES      : Thai, English
-TIMEZONE       : UTC+7
+### Professional Summary
+Specialized in building autonomous systems with expertise in LLM agents, dataset engineering, and algorithmic trading. Focused on developing production-ready AI solutions that combine cutting-edge research with practical implementation.
 
-SPECIALIZATION : LLM Agents • Dataset Engineering • Trading Systems
-PRIMARY_STACK  : Python, Rust, JavaScript/TypeScript, MQL5
-FOCUS_AREAS    : AI Agents, RAG Systems, Data Pipelines, Automation
-
-STATUS         : [ACTIVE] Building autonomous systems that ship.
-```
+### Core Competencies
+- **AI/ML Engineering**: Large Language Models, RAG Systems, Multi-agent Workflows
+- **Data Engineering**: ETL Pipelines, Time-series Data, Web Scraping
+- **Algorithmic Trading**: Reinforcement Learning, Risk Management, Backtesting
+- **Backend Development**: High-performance APIs, Database Design
+- **Security Research**: Authorized security analysis and threat research
+- **AI Ecosystem Architecture**: Personal AI infrastructure and modular skill systems
 
 ---
 
-## `$ cat /etc/stack.conf`
+## Technical Skills
 
-```ini
-[CORE_LANGUAGES]
-Python         = ████████████████████ 100%
-Rust           = █████████████████░░░  85%
-JavaScript/TS  = ████████████████░░░░  80%
-SQL            = ███████████████░░░░░  75%
-MQL5           = ██████████████░░░░░░  70%
+### Programming Languages
+| Language | Proficiency |
+|----------|-------------|
+| Python | Expert |
+| Rust | Advanced |
+| JavaScript/TypeScript | Advanced |
+| SQL | Proficient |
+| MQL5 | Proficient |
 
-[FRAMEWORKS]
-FastAPI        = ████████████████████ 100%
-LangChain      = ███████████████████░  95%
-Django         = ████████████████░░░░  80%
-React/Next.js  = ███████████████░░░░░  75%
-TimescaleDB    = ██████████████░░░░░░  70%
+### Frameworks & Technologies
+| Category | Technologies |
+|----------|--------------|
+| **Web Frameworks** | FastAPI, Django, React/Next.js |
+| **AI/ML** | LangChain, Transformers, Hugging Face, Ollama |
+| **Databases** | PostgreSQL, TimescaleDB, Redis |
+| **Tools** | Docker, Git/GitHub, MetaTrader5 |
 
-[AI_ML_TOOLKIT]
-Transformers   = ███████████████████░  95%
-Hugging Face   = ███████████████████░  95%
-Ollama         = ██████████████████░░  90%
-RAG Systems    = ██████████████████░░  90%
-RL Frameworks  = ███████████████░░░░░  75%
-
-[TOOLS]
-Git/GitHub     = ████████████████████ 100%
-Docker         = ███████████████████░  95%
-PostgreSQL     = ███████████████████░  95%
-Redis          = █████████████████░░░  85%
-MetaTrader5    = ██████████████░░░░░░  70%
-```
+### Specializations
+- **AI/ML Engineering**: RAG Systems (90%), Transformers (95%), LLM Orchestration (90%)
+- **Backend Development**: API Design, Database Architecture, Performance Optimization
+- **Data Engineering**: ETL Pipelines, Time-series Data, Web Scraping
+- **Algorithmic Trading**: Reinforcement Learning, Risk Management, Backtesting
+- **Personal AI Systems**: Local-first architecture, modular skill frameworks
 
 ---
 
-## `$ ls -la ~/projects/`
+## Projects Portfolio
 
-```
-total 42
-drwxr-xr-x 12 jonus jonus 4096 Dec 19 2025 .
-drwxr-xr-x  8 jonus jonus 4096 Dec 19 2025 ..
+### OpenKrab Ecosystem - Personal AI Infrastructure
+**Founder & Lead Developer** - Building comprehensive personal AI ecosystem inspired by OpenClaw
 
-┌─[ AI_AGENTS_&_LLM ]────────────────────────────────────────────────────┐
-│                                                                         │
-│  File-Search-API/              [RAG] Chat with documents (FastAPI)    │
-│  IDAS-NGSI-Agent-Framework/    [AGENT] NGSI context-aware agents      │
-│  DeepSeek-OCR-Prompt/          [LLM] Vision + OCR pipeline            │
-│  LangChainOllama/              [LLM] Local model orchestration        │
-│  ai-generator-prompt/          [LLM] Prompt engineering toolkit       │
-│                                                                         │
-│  FOCUS: Multi-agent workflows • RAG systems • Tool-using agents        │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+**Core Infrastructure**
+- **OpenKrab** - Autonomous AI Infrastructure supporting any OS and platform
+- **Krab** - Core platform transforming OpenClaw into personal AI ecosystem
+- **ClawController** - Administration app for orchestrating OpenClaw Gateway instances
+- **ClawWizard** - Interactive setup wizard for seamless OpenClaw deployment
 
-┌─[ DATA_ENGINEERING_&_ETL ]─────────────────────────────────────────────┐
-│                                                                         │
-│  Scrape-Thai-Web/              [ETL] Thai web scraping utilities      │
-│  DATASET-XAUUSD-BTCUSD/        [DATA] 20-year trading dataset         │
-│  TimescaleDB-47/               [DB] Time-series data management       │
-│  TimescaleDB-Prompt/           [AUTO] Database automation tools       │
-│  Fiware-Smart-Prompt/          [IOT] Smart city data integration      │
-│                                                                         │
-│  FOCUS: Web scraping • Corpora building • Data quality • Time-series   │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+**AI Trading & Finance**
+- **ClawGold** - AI-powered XAUUSD trading system with news aggregation and sentiment analysis
+- **ClawPoly** - Local-first Polymarket trading bot for practical execution
+- **ClawReceipt** - Automated receipt capture and financial data management
 
-┌─[ TRADING_SYSTEMS_&_ALGO ]─────────────────────────────────────────────┐
-│                                                                         │
-│  Ai-Trading-RL/                [RL] Reinforcement learning trader     │
-│  Trading-Ai-Lstm/              [DL] LSTM price prediction model       │
-│  Trading-Ai-GRU/               [DL] GRU-based trading strategy        │
-│  EA-P90/                       [MQL5] Expert Advisor (P90 system)     │
-│  EA-AK47Hybrid/                [MQL5] Hybrid trading EA               │
-│  RL-Winrate/                   [RL] Win-rate optimization agent       │
-│  PyTrade-Desk/                 [TOOL] Trading desk application        │
-│                                                                         │
-│  FOCUS: Algorithmic trading • Backtesting • Risk management            │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+**Memory & Data Management**
+- **ClawMemory** - Local-first memory layer for persistent AI context
+- **ClawGraph** - Graph-based memory system solving "I remember it but can't find it"
+- **ClawSync** - Encrypted synchronization across OpenClaw/OpenKrab ecosystem
+- **ClawBackup** - Automated encrypted nightly backup system
 
-┌─[ FRAMEWORKS_&_TOOLS ]─────────────────────────────────────────────────┐
-│                                                                         │
-│  OpenSpeed/                    [WEB] High-performance web framework   │
-│  MyDB-Management-Tool/         [CLI] Database management utility      │
-│  Eden-Ai-Survival/             [GAME] AI survival simulation          │
-│  dopa-ready-01/                [TOOL] Utility application             │
-│                                                                         │
-│  FOCUS: Developer tools • Performance • Clean architecture             │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+**Productivity & Automation**
+- **ClawFlow** - CLI wrapper for skill bundle installation and workflow automation
+- **ClawChain** - Reusable chain-of-thought workflow framework
+- **ClawBrowser** - Safe browser automation without screen exposure
+- **ClawMirror** - Auto-sync conversations to popular platforms
 
-┌─[ INDUSTRIAL_&_IOT ]───────────────────────────────────────────────────┐
-│                                                                         │
-│  tsoamr.pttplc/                [AMR] Modbus/EVC meter reading system  │
-│  TSO-AMR-PTT-PLC/              [AMR] Industrial automation platform   │
-│  tsoamr.pttplc-original/       [AMR] Original implementation          │
-│                                                                         │
-│  FOCUS: Industrial IoT • SCADA • Real-time monitoring                  │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+**Localization & Learning**
+- **ClawThai** - Thai language support and localization (Beta)
+- **ClawLearnFeed** - Personal learning feed aggregation
+- **ClawSelfImprove** - Enhanced self-improving AI loop
 
-┌─[ MEDICAL_&_RESEARCH ]─────────────────────────────────────────────────┐
-│                                                                         │
-│  BI-RADS-Classification/       [ML] Breast ultrasound classification  │
-│                                                                         │
-│  FOCUS: Medical imaging • Classification • Dataset curation            │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+**Focus Areas**: Local-first architecture, privacy-preserving AI, modular skill system, multi-platform support, Thai language AI capabilities
 
-┌─[ SECURITY_RESEARCH ]──────────────────────────────────────────────────┐
-│                                                                         │
-│  [!] WARNING: AUTHORIZED RESEARCH ENVIRONMENTS ONLY                    │
-│                                                                         │
-│  Botnet/                       [RUST] C2 simulation (lab testing)     │
-│  Ransomware/                   [RUST] Malware behavior research       │
-│  Ransomware-attack/            [EDU] Cryptographic attack study       │
-│  Malware701/                   [EDU] Threat analysis research         │
-│                                                                         │
-│  PURPOSE: Educational security research • Authorized testing only      │
-│  ETHICS:  No instructions • No misuse • Lab environments only          │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+### AI & Machine Learning
+- **File-Search-API** - RAG-based document chat system using FastAPI
+- **IDAS-NGSI-Agent-Framework** - NGSI context-aware agent framework
+- **DeepSeek-OCR-Prompt** - Computer vision with OCR pipeline integration
+- **LangChainOllama** - Local LLM model orchestration platform
+- **ai-generator-prompt** - Advanced prompt engineering toolkit
+
+### Data Engineering
+- **Scrape-Thai-Web** - Thai language web scraping utilities
+- **DATASET-XAUUSD-BTCUSD** - 20-year financial trading dataset
+- **TimescaleDB-47** - Time-series data management solutions
+- **TimescaleDB-Prompt** - Database automation and optimization tools
+- **Fiware-Smart-Prompt** - Smart city IoT data integration
+
+### Trading Systems
+- **Ai-Trading-RL** - Reinforcement learning trading agent
+- **Trading-Ai-Lstm** - LSTM-based price prediction models
+- **Trading-Ai-GRU** - GRU-based trading strategy implementation
+- **EA-P90** - MetaTrader5 Expert Advisor (P90 system)
+- **EA-AK47Hybrid** - Hybrid trading algorithm implementation
+- **RL-Winrate** - Win-rate optimization through reinforcement learning
+- **PyTrade-Desk** - Comprehensive trading desk application
+
+### Developer Tools & Frameworks
+- **OpenSpeed** - High-performance web framework
+- **MyDB-Management-Tool** - CLI database management utility
+- **Eden-Ai-Survival** - AI-powered survival simulation
+- **dopa-ready-01** - Productivity utility application
+
+### Industrial IoT
+- **tsoamr.pttplc** - Modbus/EVC automated meter reading system
+- **TSO-AMR-PTT-PLC** - Industrial automation platform
+
+### Research & Development
+- **BI-RADS-Classification** - Medical imaging ML classification
+- **Security Research** - Authorized cybersecurity research (educational purposes only)
 
 ---
 
-## `$ ./stats.sh --performance`
+## GitHub Statistics
 
-```
-┌─[ GITHUB_STATISTICS ]──────────────────────────────────────────────────┐
-│                                                                         │
-│  Total Repositories    : 50+                                           │
-│  Active Projects       : 15+                                           │
-│  Primary Language      : Python                                        │
-│  Secondary Languages   : Rust, JavaScript, MQL5                        │
-│  Contribution Pattern  : Daily commits                                 │
-│  Open Source          : ████████████████████ Active                    │
-│                                                                         │
-│  Top Domains:                                                          │
-│    • AI/ML Engineering         [████████████████████] 35%              │
-│    • Data Engineering          [███████████████░░░░░] 25%              │
-│    • Trading Systems           [████████████░░░░░░░░] 20%              │
-│    • Backend Development       [██████████░░░░░░░░░░] 15%              │
-│    • Security Research         [███░░░░░░░░░░░░░░░░░]  5%              │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+### Overview
+- **Total Repositories**: 50+
+- **Active Projects**: 15+
+- **Primary Language**: Python
+- **Secondary Languages**: Rust, JavaScript, MQL5
+- **Contribution Pattern**: Daily commits
+- **Open Source Activity**: Actively contributing
 
-┌─[ LANGUAGE_BREAKDOWN ]─────────────────────────────────────────────────┐
-│                                                                         │
-│  Python         ████████████████████████████░░░░░░░░░░░░ 45%          │
-│  Rust           ██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░ 20%          │
-│  JavaScript     ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15%          │
-│  MQL5           ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%          │
-│  TypeScript     ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  8%          │
-│  Other          ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2%          │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
+### Domain Expertise Distribution
+| Domain | Percentage |
+|--------|------------|
+| AI/ML Engineering | 35% |
+| Data Engineering | 25% |
+| Trading Systems | 20% |
+| Backend Development | 15% |
+| Security Research | 5% |
 
-┌─[ ACTIVITY_METRICS ]───────────────────────────────────────────────────┐
-│                                                                         │
-│  Current Streak     : 🔥 Active                                        │
-│  Longest Streak     : 🔥 Consistent                                    │
-│  Total Commits      : 📊 High Volume                                   │
-│  Code Quality       : ✅ Clean & Tested                                │
-│  Documentation      : 📖 Comprehensive                                 │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+### Language Distribution
+| Language | Usage |
+|----------|-------|
+| Python | 45% |
+| Rust | 20% |
+| JavaScript | 15% |
+| MQL5 | 10% |
+| TypeScript | 8% |
+| Other | 2% |
+
+### Development Metrics
+- **Current Activity**: Active development streak
+- **Consistency**: Maintained long-term contribution patterns
+- **Code Quality**: Clean, tested, and well-documented
+- **Documentation**: Comprehensive project documentation
 
 ---
 
-## `$ cat /etc/mission.txt`
+## Mission Statement
 
-```
-═══════════════════════════════════════════════════════════════════════════
-                            CORE MISSION STATEMENT                          
-═══════════════════════════════════════════════════════════════════════════
-
-[PRIMARY_DIRECTIVE]
+**Primary Objective**
 Build autonomous systems that learn, adapt, and ship to production.
 
-[OPERATIONAL_GOALS]
-• Design and deploy AI agent frameworks for real-world applications
-• Engineer high-quality datasets for Thai/English language tasks
-• Develop algorithmic trading systems with robust risk management
-• Create developer tools that improve productivity and workflow
-• Contribute to open-source projects that benefit the community
+**Operational Goals**
+- Design and deploy AI agent frameworks for real-world applications
+- Engineer high-quality datasets for Thai/English language tasks
+- Develop algorithmic trading systems with robust risk management
+- Create developer tools that improve productivity and workflow
+- Contribute to open-source projects that benefit the community
+- Build personal AI ecosystems that prioritize privacy and user control
 
-[PRINCIPLES]
-✓ Code quality over quick hacks
-✓ Documentation as a first-class citizen
-✓ Testing before deployment
-✓ Security by design
-✓ Performance optimization
-✓ Clean architecture
+**Core Principles**
+- Code quality over quick hacks
+- Documentation as a first-class citizen
+- Testing before deployment
+- Security by design
+- Performance optimization
+- Clean architecture
+- Local-first and privacy-preserving design
 
-[APPROACH]
+**Development Approach**
 Research → Prototype → Test → Iterate → Ship → Maintain
 
-═══════════════════════════════════════════════════════════════════════════
-```
+---
+
+## Recent Activity
+
+### Latest Project Updates
+- **OpenKrab Ecosystem** - Launched comprehensive personal AI infrastructure (2025)
+- **ClawGold Trading System** - AI-powered gold trading with sentiment analysis
+- **ClawThai Localization** - Thai language support for personal AI
+- **Botnet Research** - Security research repository updated (Dec 19, 2025)
+- **Ransomware Analysis** - Educational security research (Dec 18, 2025)
+- **Thai Web Scraping** - Enhanced scraping utilities (Dec 18, 2025)
+- **NGSI Agent Framework** - Framework improvements (Dec 18, 2025)
+- **AMR System** - Industrial automation updates (Dec 17, 2025)
+- **DeepSeek OCR** - Vision pipeline released (Dec 10, 2025)
+- **OpenSpeed Framework** - v1.0 shipped (Dec 9, 2025)
+- **Trading Systems** - Multiple EA optimizations and model deployments
 
 ---
 
-## `$ cat /var/log/recent_activity.log`
+## Connect
 
-```log
-[2025-12-19 14:30:00] INFO: Updated Botnet research repository
-[2025-12-18 16:45:00] INFO: Pushed changes to Ransomware (education only)
-[2025-12-18 10:20:00] INFO: Scrape-Thai-Web utilities enhanced
-[2025-12-18 09:15:00] INFO: IDAS-NGSI-Agent-Framework improvements
-[2025-12-17 15:30:00] INFO: dopa-ready-01 project checkpoint
-[2025-12-17 14:00:00] INFO: tsoamr.pttplc AMR system updated
-[2025-12-16 11:45:00] INFO: TSO-AMR-PTT-PLC refactoring complete
-[2025-12-13 13:20:00] INFO: Ransomware-attack research updated
-[2025-12-10 17:00:00] INFO: DeepSeek-OCR-Prompt pipeline released
-[2025-12-09 10:30:00] INFO: OpenSpeed framework v1.0 shipped
-[2025-12-08 16:15:00] INFO: EA-P90 trading EA optimization
-[2025-12-07 14:45:00] INFO: RL-Winrate agent training completed
-[2025-12-03 12:00:00] INFO: Trading-Ai-Lstm model deployed
-[2025-12-03 11:30:00] INFO: Trading-Ai-GRU backtesting finished
-[2025-12-03 09:00:00] INFO: DATASET-XAUUSD-BTCUSD published
-[2025-12-02 15:30:00] INFO: TimescaleDB-Prompt automation added
-[2025-12-01 10:00:00] INFO: Malware701 research repository created
-```
+### Professional Profiles
+- **GitHub**: [github.com/JonusNattapong](https://github.com/JonusNattapong)
+- **OpenKrab Organization**: [github.com/OpenKrab](https://github.com/OpenKrab)
+- **Hugging Face**: [huggingface.co/ZombitX64](https://huggingface.co/ZombitX64)
+- **LeetCode**: [leetcode.com/u/JonusNattapong](https://leetcode.com/u/JonusNattapong/)
+
+### Contact Information
+- **Location**: Bangkok, Thailand
+- **Languages**: Thai, English
+- **Timezone**: UTC+7
+- **Status**: Available for collaboration and consulting opportunities
 
 ---
 
-## `$ ./connect.sh --channels`
+## Closing
 
-```
-┌─[ COMMUNICATION_CHANNELS ]─────────────────────────────────────────────┐
-│                                                                         │
-│  Protocol: HTTPS                                                       │
-│  Encryption: TLS 1.3                                                   │
-│  Status: All channels operational                                      │
-│                                                                         │
-│  ┌─────────────────────────────────────────────────────────────────┐  │
-│  │  [GITHUB]                                                       │  │
-│  │  URL: https://github.com/JonusNattapong                         │  │
-│  │  Status: [████████████████████] CONNECTED                       │  │
-│  └─────────────────────────────────────────────────────────────────┘  │
-│                                                                         │
-│  ┌─────────────────────────────────────────────────────────────────┐  │
-│  │  [HUGGING_FACE]                                                 │  │
-│  │  URL: https://huggingface.co/ZombitX64                          │  │
-│  │  Status: [████████████████████] CONNECTED                       │  │
-│  └─────────────────────────────────────────────────────────────────┘  │
-│                                                                         │
-│  ┌─────────────────────────────────────────────────────────────────┐  │
-│  │  [LEETCODE]                                                     │  │
-│  │  URL: https://leetcode.com/u/JonusNattapong/                    │  │
-│  │  Status: [████████████████████] CONNECTED                       │  │
-│  └─────────────────────────────────────────────────────────────────┘  │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+**Motto**: "Ship fast. Test hard. Build better."
+
+**System Status**: Online | Version 2.0.0 | Last Updated: December 2025
+
+**License**: MIT (where applicable)
 
 ---
 
-## `$ cat /etc/signature.txt`
-
-```
-═══════════════════════════════════════════════════════════════════════════
-
-               ⚡ POWERED BY AI • SECURED BY RUST • AUTOMATED ⚡
-                            
-                   "Ship fast. Test hard. Build better."
-                            
-                        — Jonus Nattapong (ZombitX64)
-
-═══════════════════════════════════════════════════════════════════════════
-
-┌─────────────────────────────────────────────────────────────────────────┐
-│  SYSTEM_STATUS    : [ONLINE]                                            │
-│  BUILD_VERSION    : 2.0.0                                               │
-│  LAST_UPDATED     : 2025-12-19                                          │
-│  ARCHITECTURE     : CYBERPUNK_TERMINAL                                  │
-│  LICENSE          : MIT (where applicable)                              │
-└─────────────────────────────────────────────────────────────────────────┘
-
-[END OF TRANSMISSION]
-```
+*Jonus Nattapong (ZombitX64)*
+Software Engineer & AI Researcher
+OpenKrab Founder & Lead Developer
