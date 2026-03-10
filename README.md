@@ -192,25 +192,6 @@ Research → Prototype → Test → Iterate → Ship → Maintain
 
 ---
 
-## Recent Activity
-
-### Latest Project Updates
-- **OpenKrab Ecosystem** - Launched comprehensive personal AI infrastructure (2025)
-- **ClawGold Trading System** - AI-powered gold trading with sentiment analysis
-- **ClawThai Localization** - Thai language support for personal AI
-- **ThailandGISMap** - Comprehensive GIS data aggregation for Thailand (4 days ago)
-- **ThaiMBG** - Thai language processing tools (5 days ago)
-- **Botnet Research** - Security research repository updated (Dec 19, 2025)
-- **Ransomware Analysis** - Educational security research (Dec 18, 2025)
-- **Thai Web Scraping** - Enhanced scraping utilities (Dec 18, 2025)
-- **NGSI Agent Framework** - Framework improvements (Dec 18, 2025)
-- **AMR System** - Industrial automation updates (Dec 17, 2025)
-- **DeepSeek OCR** - Vision pipeline released (Dec 10, 2025)
-- **OpenSpeed Framework** - v1.0 shipped (Dec 9, 2025)
-- **Trading Systems** - Multiple EA optimizations and model deployments
-
----
-
 ## Connect
 
 ### Professional Profiles
