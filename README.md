@@ -122,6 +122,11 @@ Specialized in building autonomous systems with expertise in LLM agents, dataset
 - **BI-RADS-Classification** - Medical imaging ML classification
 - **Security Research** - Authorized cybersecurity research (educational purposes only)
 
+### Public & Community Projects
+- **ThailandGISMap** - โครงการรวบรวมและจัดหมวดหมู่ข้อมูลภูมิสารสนเทศ (GIS) ของประเทศไทยจากแหล่งข้อมูลมาตรฐานสากลและหน่วยงานราชการไทย เพื่อให้บริการข้อมูลภูมิศาสตร์ที่ครบถ้วนและเป็นมาตรฐานสำหรับการวิจัยและพัฒนา
+- **ThaiMBG** - Thai language processing and localization tools
+- **GhostTrack** - Asset tracking and monitoring system
+
 ---
 
 ## GitHub Statistics
@@ -194,6 +199,9 @@ Research → Prototype → Test → Iterate → Ship → Maintain
 - **OpenKrab Ecosystem** - Launched comprehensive personal AI infrastructure (2025)
 - **ClawGold Trading System** - AI-powered gold trading with sentiment analysis
 - **ClawThai Localization** - Thai language support for personal AI
+- **ThailandGISMap** - Comprehensive GIS data aggregation for Thailand (4 days ago)
+- **GhostTrack** - Asset tracking and monitoring system (4 days ago)
+- **ThaiMBG** - Thai language processing tools (5 days ago)
 - **Botnet Research** - Security research repository updated (Dec 19, 2025)
 - **Ransomware Analysis** - Educational security research (Dec 18, 2025)
 - **Thai Web Scraping** - Enhanced scraping utilities (Dec 18, 2025)
