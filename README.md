@@ -1,4 +1,4 @@
-﻿# Jonus Nattapong
+﻿# JONUS NATTAPONG -- DEK 1MILLIONTOKENS
 **Software Engineer • AI/ML Research • Autonomous Systems**
 
 ---
