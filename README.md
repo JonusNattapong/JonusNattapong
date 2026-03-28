@@ -54,16 +54,13 @@ A modular and autonomous personal AI infrastructure designed for privacy and loc
 
 | Metric | Source | Current Status |
 | :--- | :--- | :--- |
-| **Total Contributions** | GitHub | ![Commits](https://img.shields.io/github/commit-activity/y/JonusNattapong?color=5b21b6&label=Yearly%20Activity&style=flat-square) |
 | **Community Stars** | GitHub | ![Stars](https://img.shields.io/github/stars/JonusNattapong?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=Total%20Stars&color=7c3aed) |
-| **Community Forks** | GitHub | ![Forks](https://img.shields.io/github/forks/JonusNattapong?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=Total%20Forks&color=5b21b6) |
 | **HF Gold Data** | Hugging Face | ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/ZombitX64/xauusd-gold-price-historical-data-2004-2025&query=$.downloads&label=Downloads&color=FFD21E&logo=huggingface&logoColor=black&style=flat-square) |
 | **HF Trading Models** | Hugging Face | ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/models/JonusNattapong/xauusd-trading-v4-quantum-daily&query=$.downloads&label=Downloads&color=FFD21E&logo=huggingface&logoColor=black&style=flat-square) |
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonusNattapong&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true&title_color=000&icon_color=000&text_color=333&bg_color=fff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonusNattapong&layout=compact&theme=default&hide_border=false&title_color=000&text_color=333&bg_color=fff"/>
+![GitHub Metrics](github-metrics.svg)
 
 </div>
 
