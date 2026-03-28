@@ -1,223 +1,90 @@
-﻿# JONUS NATTAPONG -- DEK 1MILLIONTOKENS
-**Software Engineer • AI/ML Research • Autonomous Systems**
+# Jonus Nattapong (Tapachoom)
+
+**Software Engineer & AI Researcher**  
+*Specialized in Autonomous AI Agent Frameworks, Algorithmic Trading & Reinforcement Learning*
 
 ---
 
-## Profile
+## Professional Profile
 
-**Nattapong Tapachoom**  
-Software Engineer & AI Researcher  
-Bangkok, Thailand (UTC+7) | Languages: Thai, English
+Nattapong is a Software Engineer and AI Researcher based in Bangkok, Thailand. With expertise spanning Large Language Model (LLM) orchestration, RAG architectures, and automated trading systems, he focuses on developing production-ready autonomous systems that are local-first and privacy-preserving.
 
-### Professional Summary
-Specialized in building autonomous systems with expertise in LLM agents, dataset engineering, and algorithmic trading. Focused on developing production-ready AI solutions that combine cutting-edge research with practical implementation.
+### Core Expertise
 
-### Core Competencies
-- **AI/ML Engineering**: Large Language Models, RAG Systems, Multi-agent Workflows
-- **Data Engineering**: ETL Pipelines, Time-series Data, Web Scraping
-- **Algorithmic Trading**: Reinforcement Learning, Risk Management, Backtesting
-- **Backend Development**: High-performance APIs, Database Design
-- **Security Research**: Authorized security analysis and threat research
-- **AI Ecosystem Architecture**: Personal AI infrastructure and modular skill systems
+- **AI/ML Engineering**: LLM Agents, Multi-agent Workflows, RAG, Reinforcement Learning.
+- **Data Engineering**: High-frequency financial time-series, ETL pipelines, Web scraping.
+- **Algorithmic Trading**: MetaTrader 5 (MQL5) integration, Quantitative strategy development.
+- **System Architecture**: High-performance APIs, Local-first AI infrastructure.
 
 ---
 
-## Technical Skills
+## Technical Skill Matrix
 
-### Programming Languages
-| Language | Proficiency |
-|----------|-------------|
-| Python | Expert |
-| Rust | Advanced |
-| JavaScript/TypeScript | Advanced |
-| SQL | Proficient |
-| MQL5 | Proficient |
-
-### Frameworks & Technologies
 | Category | Technologies |
-|----------|--------------|
-| **Web Frameworks** | FastAPI, Django, React/Next.js |
-| **AI/ML** | LangChain, Transformers, Hugging Face, Ollama |
-| **Databases** | PostgreSQL, TimescaleDB, Redis |
-| **Tools** | Docker, Git/GitHub, MetaTrader5 |
-
-### Specializations
-- **AI/ML Engineering**: RAG Systems (90%), Transformers (95%), LLM Orchestration (90%)
-- **Backend Development**: API Design, Database Architecture, Performance Optimization
-- **Data Engineering**: ETL Pipelines, Time-series Data, Web Scraping
-- **Algorithmic Trading**: Reinforcement Learning, Risk Management, Backtesting
-- **Personal AI Systems**: Local-first architecture, modular skill frameworks
+| :--- | :--- |
+| **Languages** | Python (Expert), Rust (Advanced), TypeScript, JavaScript, SQL, MQL5 |
+| **AI Frameworks** | LangChain, PyTorch, Transformers (Hugging Face), Ollama, OpenAI |
+| **Backend & Infrastructure** | FastAPI, Django, Docker, PostgreSQL, TimescaleDB, Redis |
+| **Specializations** | Autonomous Agents, Autonomous Trading, Computer Vision, OCR |
 
 ---
 
-## Projects Portfolio
+## Key Initiatives & Portfolio
 
-### OpenKrab Ecosystem - Personal AI Infrastructure
-**Founder & Lead Developer** - Building comprehensive personal AI ecosystem inspired by OpenClaw
+### [OpenKrab Ecosystem](https://github.com/OpenKrab)
 
-**Core Infrastructure**
-- **OpenKrab** - Autonomous AI Infrastructure supporting any OS and platform
-- **Krab** - Core platform transforming OpenClaw into personal AI ecosystem
-- **ClawController** - Administration app for orchestrating OpenClaw Gateway instances
-- **ClawWizard** - Interactive setup wizard for seamless OpenClaw deployment
+A modular and autonomous personal AI infrastructure designed for privacy and local-first execution.
 
-**AI Trading & Finance**
-- **ClawGold** - AI-powered XAUUSD trading system with news aggregation and sentiment analysis
-- **ClawPoly** - Local-first Polymarket trading bot for practical execution
-- **ClawReceipt** - Automated receipt capture and financial data management
+- **Infrastructure**: OpenKrab, Krab, ClawController (Orchestration).
+- **Intelligence Layer**: ClawMemory (Context Sync), ClawFlow (Automation), ClawGraph.
+- **Specialized Agents**: ClawGold (Trading), ClawPoly (Polymarket), ClawThai (Localization).
 
-**Memory & Data Management**
-- **ClawMemory** - Local-first memory layer for persistent AI context
-- **ClawGraph** - Graph-based memory system solving "I remember it but can't find it"
-- **ClawSync** - Encrypted synchronization across OpenClaw/OpenKrab ecosystem
-- **ClawBackup** - Automated encrypted nightly backup system
+### AI & Data Engineering
 
-**Productivity & Automation**
-- **ClawFlow** - CLI wrapper for skill bundle installation and workflow automation
-- **ClawChain** - Reusable chain-of-thought workflow framework
-- **ClawBrowser** - Safe browser automation without screen exposure
-- **ClawMirror** - Auto-sync conversations to popular platforms
-
-**Localization & Learning**
-- **ClawThai** - Thai language support and localization (Beta)
-- **ClawLearnFeed** - Personal learning feed aggregation
-- **ClawSelfImprove** - Enhanced self-improving AI loop
-
-**Focus Areas**: Local-first architecture, privacy-preserving AI, modular skill system, multi-platform support, Thai language AI capabilities
-
-### AI & Machine Learning
-- **File-Search-API** - RAG-based document chat system using FastAPI
-- **IDAS-NGSI-Agent-Framework** - NGSI context-aware agent framework
-- **DeepSeek-OCR-Prompt** - Computer vision with OCR pipeline integration
-- **LangChainOllama** - Local LLM model orchestration platform
-- **ai-generator-prompt** - Advanced prompt engineering toolkit
-
-### Data Engineering
-- **Scrape-Thai-Web** - Thai language web scraping utilities
-- **DATASET-XAUUSD-BTCUSD** - 20-year financial trading dataset
-- **TimescaleDB-47** - Time-series data management solutions
-- **TimescaleDB-Prompt** - Database automation and optimization tools
-- **Fiware-Smart-Prompt** - Smart city IoT data integration
-
-### Trading Systems
-- **Ai-Trading-RL** - Reinforcement learning trading agent
-- **Trading-Ai-Lstm** - LSTM-based price prediction models
-- **Trading-Ai-GRU** - GRU-based trading strategy implementation
-- **EA-P90** - MetaTrader5 Expert Advisor (P90 system)
-- **EA-AK47Hybrid** - Hybrid trading algorithm implementation
-- **RL-Winrate** - Win-rate optimization through reinforcement learning
-- **PyTrade-Desk** - Comprehensive trading desk application
-
-### Developer Tools & Frameworks
-- **OpenSpeed** - High-performance web framework
-- **MyDB-Management-Tool** - CLI database management utility
-- **Eden-Ai-Survival** - AI-powered survival simulation
-- **dopa-ready-01** - Productivity utility application
-
-### Industrial IoT
-- **tsoamr.pttplc** - Modbus/EVC automated meter reading system
-- **TSO-AMR-PTT-PLC** - Industrial automation platform
-
-### Research & Development
-- **BI-RADS-Classification** - Medical imaging ML classification
-- **Security Research** - Authorized cybersecurity research (educational purposes only)
-
-### Public & Community Projects
-- **ThailandGISMap** - โครงการรวบรวมและจัดหมวดหมู่ข้อมูลภูมิสารสนเทศ (GIS) ของประเทศไทยจากแหล่งข้อมูลมาตรฐานสากลและหน่วยงานราชการไทย เพื่อให้บริการข้อมูลภูมิศาสตร์ที่ครบถ้วนและเป็นมาตรฐานสำหรับการวิจัยและพัฒนา
-- **ThaiMBG** - Thai language processing and localization tools
+- **File-Search-API**: Production-grade RAG document retrieval system built with FastAPI.
+- **XAUUSD/BTCUSD Datasets**: 20-year high-frequency financial datasets for ML research.
+- **ThailandGISMap**: A comprehensive open-source geospatial data project for Thailand.
+- **Ai-Trading-RL**: Advanced reinforcement learning agent for systematic trading.
 
 ---
 
-## GitHub Statistics
+## Performance & Impact
 
-### Overview
-- **Total Repositories**: 50+
-- **Active Projects**: 15+
-- **Primary Language**: Python
-- **Secondary Languages**: Rust, JavaScript, MQL5
-- **Contribution Pattern**: Daily commits
-- **Open Source Activity**: Actively contributing
+<div align="center">
 
-### Domain Expertise Distribution
-| Domain | Percentage |
-|--------|------------|
-| AI/ML Engineering | 35% |
-| Data Engineering | 25% |
-| Trading Systems | 20% |
-| Backend Development | 15% |
-| Security Research | 5% |
+| Metric | Source | Current Status |
+| :--- | :--- | :--- |
+| **Total Contributions** | GitHub | ![Commits](https://img.shields.io/github/commit-activity/y/JonusNattapong?color=5b21b6&label=Yearly%20Activity&style=flat-square) |
+| **Community Stars** | GitHub | ![Stars](https://img.shields.io/github/stars/JonusNattapong?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=Total%20Stars&color=7c3aed) |
+| **Community Forks** | GitHub | ![Forks](https://img.shields.io/github/forks/JonusNattapong?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&logo=github&label=Total%20Forks&color=5b21b6) |
+| **HF Gold Data** | Hugging Face | ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/ZombitX64/xauusd-gold-price-historical-data-2004-2025&query=$.downloads&label=Downloads&color=FFD21E&logo=huggingface&logoColor=black&style=flat-square) |
+| **HF Trading Models** | Hugging Face | ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/models/JonusNattapong/xauusd-trading-v4-quantum-daily&query=$.downloads&label=Downloads&color=FFD21E&logo=huggingface&logoColor=black&style=flat-square) |
 
-### Language Distribution
-| Language | Usage |
-|----------|-------|
-| Python | 45% |
-| Rust | 20% |
-| JavaScript | 15% |
-| MQL5 | 10% |
-| TypeScript | 8% |
-| Other | 2% |
+<br/>
 
-### Development Metrics
-- **Current Activity**: Active development streak
-- **Consistency**: Maintained long-term contribution patterns
-- **Code Quality**: Clean, tested, and well-documented
-- **Documentation**: Comprehensive project documentation
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonusNattapong&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true&title_color=000&icon_color=000&text_color=333&bg_color=fff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonusNattapong&layout=compact&theme=default&hide_border=false&title_color=000&text_color=333&bg_color=fff"/>
+
+</div>
 
 ---
 
-## Mission Statement
+## Public Presence
 
-**Primary Objective**
-Build autonomous systems that learn, adapt, and ship to production.
-
-**Operational Goals**
-- Design and deploy AI agent frameworks for real-world applications
-- Engineer high-quality datasets for Thai/English language tasks
-- Develop algorithmic trading systems with robust risk management
-- Create developer tools that improve productivity and workflow
-- Contribute to open-source projects that benefit the community
-- Build personal AI ecosystems that prioritize privacy and user control
-
-**Core Principles**
-- Code quality over quick hacks
-- Documentation as a first-class citizen
-- Testing before deployment
-- Security by design
-- Performance optimization
-- Clean architecture
-- Local-first and privacy-preserving design
-
-**Development Approach**
-Research → Prototype → Test → Iterate → Ship → Maintain
-
----
-
-## Connect
-
-### Professional Profiles
-- **GitHub**: [github.com/JonusNattapong](https://github.com/JonusNattapong)
-- **OpenKrab Organization**: [github.com/OpenKrab](https://github.com/OpenKrab)
-- **Hugging Face**: [huggingface.co/ZombitX64](https://huggingface.co/ZombitX64)
+- **GitHub**: [JonusNattapong](https://github.com/JonusNattapong) / [OpenKrab](https://github.com/OpenKrab)
+- **Hugging Face**: [ZombitX64](https://huggingface.co/ZombitX64) / [JonusNattapong](https://huggingface.co/JonusNattapong)
 - **LeetCode**: [leetcode.com/u/JonusNattapong](https://leetcode.com/u/JonusNattapong/)
 
-### Contact Information
-- **Location**: Bangkok, Thailand
-- **Languages**: Thai, English
-- **Timezone**: UTC+7
-- **Status**: Available for collaboration and consulting opportunities
+---
+
+## Contact & Availability
+
+- **Location**: Bangkok, Thailand (UTC+7)
+- **Status**: Available for Strategic Consulting & AI System Architecture projects.
+- **Principle**: "Engineering precision over rapid velocity."
 
 ---
 
-## Closing
-
-**Motto**: "Ship fast. Test hard. Build better."
-
-**System Status**: Online | Version 2.0.0 | Last Updated: December 2025
-
-**License**: MIT (where applicable)
-
----
-
-*Jonus Nattapong (ZombitX64)*
-Software Engineer & AI Researcher
-OpenKrab Founder & Lead Developer
+<p align="right">
+  <i>Last Updated: March 2026</i>
+</p>
