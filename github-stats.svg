@@ -1,187 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 180" width="840" height="180">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;family=Space+Mono&amp;display=swap');
-      
-      .rank-title {
-        font-family: 'Space Mono', monospace;
-        font-size: 12px;
-        font-weight: 600;
-        fill: #8B5CF6;
-        letter-spacing: 2px;
-      }
-      
-      .rank-value {
-        font-family: 'Outfit', sans-serif;
-        font-weight: 800;
-        font-size: 72px;
-        fill: url(#rank-gradient);
-        filter: url(#glow-rank);
-      }
-      
-      .stat-label {
-        font-family: 'Outfit', sans-serif;
-        font-weight: 400;
-        font-size: 14px;
-        fill: #9CA3AF;
-      }
-      
-      .stat-value {
-        font-family: 'Space Mono', monospace;
-        font-weight: 600;
-        font-size: 18px;
-        fill: #F3F4F6;
-      }
-      
-      .card-border {
-        fill: #111827;
-        stroke: #1F2937;
-        stroke-width: 1.5;
-        rx: 16px;
-      }
-      
-      .glow-effect {
-        filter: url(#card-glow);
-        opacity: 0.15;
-      }
-      
-      @keyframes rank-pulse {
-        0%, 100% { filter: drop-shadow(0 0 10px rgba(139, 92, 246, 0.6)); }
-        50% { filter: drop-shadow(0 0 25px rgba(236, 72, 153, 0.8)); }
-      }
-      
-      .pulse-rank {
-        animation: rank-pulse 4s infinite ease-in-out;
-      }
-      
-      .icon {
-        fill: none;
-        stroke-width: 2;
-        stroke-linecap: round;
-        stroke-linejoin: round;
-      }
+      .card { fill: #161B22; stroke: #30363D; stroke-width: 1; }
+      .stat-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-size: 13px; fill: #8B949E; }
+      .stat-value { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-size: 28px; fill: #E6EDF3; }
+      .stat-sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-size: 11px; fill: #484F58; }
+      .rank-ring { fill: none; stroke-width: 3; }
+      .rank-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; font-size: 28px; fill: #E6EDF3; }
+      .rank-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 500; font-size: 10px; fill: #8B949E; letter-spacing: 1.5px; }
     </style>
-
-    <!-- Glowing Filters -->
-    <filter id="card-glow" x="-10%" y="-10%" width="120%" height="120%">
-      <feGaussianBlur stdDeviation="10" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-    
-    <filter id="glow-rank" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-    
-    <!-- Gradients -->
-    <linearGradient id="rank-gradient" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#3B82F6" />
-      <stop offset="50%" stop-color="#8B5CF6" />
-      <stop offset="100%" stop-color="#EC4899" />
-    </linearGradient>
-    
-    <linearGradient id="purple-pink" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8B5CF6" />
-      <stop offset="100%" stop-color="#EC4899" />
+    <linearGradient id="ring-grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#BC8CFF"/>
     </linearGradient>
   </defs>
 
-  <!-- Background Card -->
-  <rect class="glow-effect" x="10" y="10" width="780" height="200" rx="16" fill="#8B5CF6" />
-  <rect class="card-border" x="10" y="10" width="780" height="200" />
-  
-  <!-- Subtle line at top -->
-  <rect x="10" y="10" width="780" height="4" rx="2" fill="url(#purple-pink)" />
+  <!-- Main card -->
+  <rect class="card" x="0" y="0" width="840" height="170" rx="12"/>
 
-  <!-- LEFT PANEL: RANK SHIELD -->
-  <g transform="translate(60, 30)">
-    <!-- Rank Ring -->
-    <circle cx="70" cy="70" r="60" fill="none" stroke="url(#rank-gradient)" stroke-width="3" class="pulse-rank" />
-    <circle cx="70" cy="70" r="50" fill="#0B0F19" stroke="#1F2937" stroke-width="1" />
-    
-    <!-- Rank Value -->
-    <text x="70" y="80" class="rank-value" text-anchor="middle">S+</text>
-    <text x="70" y="132" class="rank-title" text-anchor="middle">RANK</text>
+  <!-- LEFT: Rank circle -->
+  <g transform="translate(70, 85)">
+    <circle cx="0" cy="0" r="50" class="rank-ring" stroke="#21262D"/>
+    <circle cx="0" cy="0" r="50" class="rank-ring" stroke="url(#ring-grad)" stroke-dasharray="260 314" stroke-dashoffset="-27" transform="rotate(-90)"/>
+    <text x="0" y="8" class="rank-text" text-anchor="middle">S+</text>
+    <text x="0" y="68" class="rank-label" text-anchor="middle">RANK</text>
   </g>
 
-  <!-- RIGHT PANEL: STATISTICS -->
-  <g transform="translate(240, 35)">
-    <!-- Row 1: Contributions -->
-    <g transform="translate(0, 0)">
-      <circle cx="20" cy="20" r="16" fill="#1F2937" />
-      <!-- Sparkle/Contribution Icon -->
-      <path class="icon" stroke="#3B82F6" d="M20,10 L22,16 L28,18 L22,20 L20,26 L18,20 L12,18 L18,16 Z" />
-      <text x="50" y="24" class="stat-label">Total Contributions</text>
-      <text x="240" y="24" class="stat-value">4,444</text>
-    </g>
-    
-    <!-- Row 2: Commits -->
-    <g transform="translate(0, 45)">
-      <circle cx="20" cy="20" r="16" fill="#1F2937" />
-      <!-- Git Branch Icon -->
-      <path class="icon" stroke="#10B981" d="M16,12 A2,2 0 1,1 18,14 L18,22 A2,2 0 1,1 16,24 M18,18 C22,18 24,20 24,22" />
-      <circle cx="24" cy="24" r="2" fill="#10B981" />
-      <text x="50" y="24" class="stat-label">Total Commits</text>
-      <text x="240" y="24" class="stat-value">2,207</text>
-    </g>
+  <!-- Divider -->
+  <line x1="155" y1="25" x2="155" y2="145" stroke="#21262D" stroke-width="1"/>
 
-    <!-- Row 3: Repositories -->
-    <g transform="translate(0, 90)">
-      <circle cx="20" cy="20" r="16" fill="#1F2937" />
-      <!-- Folder/Repo Icon -->
-      <path class="icon" stroke="#8B5CF6" d="M14,12 H18 L20,15 H26 V26 H14 Z" />
-      <text x="50" y="24" class="stat-label">Total Repositories</text>
-      <text x="240" y="24" class="stat-value">205</text>
-    </g>
-
-    <!-- Row 4: Pull Requests & Issues -->
-    <g transform="translate(0, 135)">
-      <circle cx="20" cy="20" r="16" fill="#1F2937" />
-      <!-- PR Icon -->
-      <path class="icon" stroke="#EC4899" d="M15,13 A2,2 0 1,1 17,15 L17,21 M23,21 A2,2 0 1,1 25,23 L25,17" />
-      <circle cx="17" cy="17" r="1" fill="#EC4899" />
-      <circle cx="25" cy="20" r="1" fill="#EC4899" />
-      <text x="50" y="24" class="stat-label">PRs &amp; Issues Opened</text>
-      <text x="240" y="24" class="stat-value">15+</text>
-    </g>
+  <!-- Stats grid -->
+  <!-- Row 1 -->
+  <g transform="translate(185, 25)">
+    <text x="0" y="18" class="stat-label">Total Contributions</text>
+    <text x="0" y="50" class="stat-value">4,444</text>
   </g>
 
-  <!-- COLUMN 3: MORE STATS (Right-aligned inside card) -->
-  <g transform="translate(560, 35)">
-    <!-- Row 1: Longest Streak -->
-    <g transform="translate(0, 0)">
-      <circle cx="20" cy="20" r="16" fill="#1F2937" />
-      <!-- Flame Icon -->
-      <path class="icon" stroke="#F59E0B" d="M17,26 C15,22 17,16 20,12 C21,15 23,17 24,20 C25,18 25,15 24,13 C27,16 27,22 25,26 Z" />
-      <text x="50" y="24" class="stat-label">Longest Streak</text>
-      <text x="170" y="24" class="stat-value">34 Days</text>
-    </g>
+  <g transform="translate(360, 25)">
+    <text x="0" y="18" class="stat-label">Total Commits</text>
+    <text x="0" y="50" class="stat-value">2,207</text>
+  </g>
 
-    <!-- Row 2: Starred Repos -->
-    <g transform="translate(0, 45)">
-      <circle cx="20" cy="20" r="16" fill="#1F2937" />
-      <!-- Star Icon -->
-      <path class="icon" stroke="#EAB308" d="M20,12 L22,17 L27,17 L23,20 L25,25 L20,22 L15,25 L17,20 L13,17 L18,17 Z" />
-      <text x="50" y="24" class="stat-label">Starred Repos</text>
-      <text x="170" y="24" class="stat-value">49</text>
-    </g>
+  <g transform="translate(520, 25)">
+    <text x="0" y="18" class="stat-label">Repositories</text>
+    <text x="0" y="50" class="stat-value">205</text>
+  </g>
 
-    <!-- Row 3: Account Age -->
-    <g transform="translate(0, 90)">
-      <circle cx="20" cy="20" r="16" fill="#1F2937" />
-      <!-- Calendar Icon -->
-      <path class="icon" stroke="#38BDF8" d="M14,14 H26 V26 H14 Z M18,12 V14 M22,12 V14 M14,18 H26" />
-      <text x="50" y="24" class="stat-label">GitHub Experience</text>
-      <text x="170" y="24" class="stat-value">1+ Years</text>
-    </g>
+  <g transform="translate(680, 25)">
+    <text x="0" y="18" class="stat-label">Longest Streak</text>
+    <text x="0" y="50" class="stat-value">34</text>
+    <text x="52" y="50" class="stat-sub" style="font-size:14px; fill:#8B949E"> days</text>
+  </g>
 
-    <!-- Row 4: Status -->
-    <g transform="translate(0, 135)">
-      <circle cx="20" cy="20" r="16" fill="#1F2937" />
-      <!-- Status Check Icon -->
-      <path class="icon" stroke="#A855F7" d="M14,20 L18,24 L26,16" />
-      <text x="50" y="24" class="stat-label">Profile Status</text>
-      <text x="170" y="24" class="stat-value" fill="#A855F7">Active</text>
-    </g>
+  <!-- Row 2 -->
+  <g transform="translate(185, 100)">
+    <text x="0" y="18" class="stat-label">Pull Requests</text>
+    <text x="0" y="50" class="stat-value">12</text>
+  </g>
+
+  <g transform="translate(360, 100)">
+    <text x="0" y="18" class="stat-label">Issues</text>
+    <text x="0" y="50" class="stat-value">2</text>
+  </g>
+
+  <g transform="translate(520, 100)">
+    <text x="0" y="18" class="stat-label">Stars Given</text>
+    <text x="0" y="50" class="stat-value">49</text>
+  </g>
+
+  <g transform="translate(680, 100)">
+    <text x="0" y="18" class="stat-label">Status</text>
+    <text x="0" y="50" class="stat-value" style="fill:#3FB950">Active</text>
   </g>
 </svg>
