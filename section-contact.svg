@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 50" width="300" height="50">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@800&amp;family=Space+Mono&amp;display=swap');
+      
+      .num {
+        font-family: 'Space Mono', monospace;
+        font-weight: 600;
+        font-size: 14px;
+        fill: #F59E0B;
+        letter-spacing: 1px;
+      }
+      
+      .title {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 800;
+        font-size: 20px;
+        fill: #F3F4F6;
+        letter-spacing: 2px;
+      }
+      
+      .line {
+        stroke: url(#line-grad);
+        stroke-width: 2;
+        stroke-linecap: round;
+      }
+    </style>
+    
+    <linearGradient id="line-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  
+  <g transform="translate(5, 30)">
+    <text x="0" y="0" class="num">04.</text>
+    <text x="35" y="0" class="title">GET IN TOUCH</text>
+    <line x1="190" y1="-7" x2="280" y2="-7" class="line" />
+  </g>
+</svg>

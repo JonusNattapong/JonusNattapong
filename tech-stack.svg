@@ -1,0 +1,230 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;family=Space+Mono&amp;display=swap');
+      
+      .section-title {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 800;
+        font-size: 18px;
+        fill: #E5E7EB;
+        letter-spacing: 1px;
+      }
+      
+      .tech-label {
+        font-family: 'Space Mono', monospace;
+        font-size: 11px;
+        font-weight: 600;
+        fill: #9CA3AF;
+      }
+      
+      .tech-card {
+        fill: #111827;
+        stroke: #1F2937;
+        stroke-width: 1.5;
+        rx: 12px;
+        transition: all 0.3s ease;
+      }
+      
+      .tech-card:hover {
+        stroke: #6366F1;
+        fill: #1F2937;
+      }
+
+      .glow-effect {
+        filter: url(#card-glow);
+        opacity: 0.15;
+      }
+      
+      @keyframes pulse {
+        0%, 100% { opacity: 0.15; }
+        50% { opacity: 0.3; }
+      }
+      
+      .pulse-glow {
+        animation: pulse 4s infinite ease-in-out;
+      }
+    </style>
+
+    <!-- Glowing Filters -->
+    <filter id="card-glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    
+    <!-- Linear Gradients for Cards -->
+    <linearGradient id="gradient-frontend" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    
+    <linearGradient id="gradient-backend" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#047857" />
+    </linearGradient>
+    
+    <linearGradient id="gradient-cloud" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8B5CF6" />
+      <stop offset="100%" stop-color="#6D28D9" />
+    </linearGradient>
+    
+    <linearGradient id="gradient-tools" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#B45309" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Base (Invisible or matching GitHub Dark Theme) -->
+  <rect width="800" height="220" fill="none" />
+
+  <!-- Column 1: Frontend -->
+  <g transform="translate(10, 10)">
+    <!-- Glow -->
+    <rect class="glow-effect pulse-glow" x="0" y="0" width="180" height="200" rx="12" fill="#3B82F6" />
+    <!-- Card -->
+    <rect class="tech-card" x="0" y="0" width="180" height="200" />
+    <!-- Indicator line -->
+    <rect x="0" y="0" width="180" height="4" rx="2" fill="url(#gradient-frontend)" />
+    <!-- Title -->
+    <text x="20" y="35" class="section-title">Frontend</text>
+    
+    <!-- Items -->
+    <!-- React -->
+    <g transform="translate(20, 55)">
+      <circle cx="15" cy="15" r="14" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+      <path d="M15,9 A6,6 0 0,0 15,21 A6,6 0 0,0 15,9" fill="none" stroke="#61DAFB" stroke-width="1"/>
+      <ellipse cx="15" cy="15" rx="10" ry="4" fill="none" stroke="#61DAFB" stroke-width="1" transform="rotate(30 15 15)"/>
+      <ellipse cx="15" cy="15" rx="10" ry="4" fill="none" stroke="#61DAFB" stroke-width="1" transform="rotate(90 15 15)"/>
+      <ellipse cx="15" cy="15" rx="10" ry="4" fill="none" stroke="#61DAFB" stroke-width="1" transform="rotate(150 15 15)"/>
+      <circle cx="15" cy="15" r="2" fill="#61DAFB"/>
+      <text x="40" y="20" class="tech-label">React / Next.js</text>
+    </g>
+    <!-- TypeScript -->
+    <g transform="translate(20, 95)">
+      <rect x="1" y="1" width="28" height="28" rx="4" fill="#3178C6"/>
+      <text x="18" y="22" font-family="'Outfit', sans-serif" font-weight="800" font-size="14" fill="#FFFFFF" text-anchor="middle">TS</text>
+      <text x="40" y="20" class="tech-label">TypeScript</text>
+    </g>
+    <!-- Tailwind -->
+    <g transform="translate(20, 135)">
+      <circle cx="15" cy="15" r="14" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+      <path d="M15,9 C12,9 10,11 10,13 C10,15 12,16 14,16 C16,16 18,17 18,19 C18,21 16,21 13,21 M13,21" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+      <path d="M11,11 C13,11 15,12 16,13 C18,14 19,16 19,17" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round"/>
+      <text x="40" y="20" class="tech-label">Tailwind CSS</text>
+    </g>
+  </g>
+
+  <!-- Column 2: Backend -->
+  <g transform="translate(205, 10)">
+    <!-- Glow -->
+    <rect class="glow-effect pulse-glow" x="0" y="0" width="180" height="200" rx="12" fill="#10B981" />
+    <!-- Card -->
+    <rect class="tech-card" x="0" y="0" width="180" height="200" />
+    <!-- Indicator line -->
+    <rect x="0" y="0" width="180" height="4" rx="2" fill="url(#gradient-backend)" />
+    <!-- Title -->
+    <text x="20" y="35" class="section-title">Backend</text>
+    
+    <!-- Items -->
+    <!-- Node.js -->
+    <g transform="translate(20, 55)">
+      <circle cx="15" cy="15" r="14" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+      <path d="M15,8 L21,11.5 L21,18.5 L15,22 L9,18.5 L9,11.5 Z" fill="none" stroke="#339933" stroke-width="1.5"/>
+      <path d="M15,8 L15,22 M15,15 L21,11.5 M15,15 L9,11.5" fill="none" stroke="#339933" stroke-width="1.5"/>
+      <text x="40" y="20" class="tech-label">Node.js / Express</text>
+    </g>
+    <!-- NestJS -->
+    <g transform="translate(20, 95)">
+      <circle cx="15" cy="15" r="14" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+      <path d="M15,7 L22,12 L18,22 L15,17 L12,22 L8,12 Z" fill="#E0234E"/>
+      <text x="40" y="20" class="tech-label">NestJS</text>
+    </g>
+    <!-- Python / Go -->
+    <g transform="translate(20, 135)">
+      <circle cx="15" cy="15" r="14" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+      <path d="M9,15 C9,10 11,8 15,8 C19,8 21,10 21,15 C21,20 19,22 15,22 C11,22 9,20 9,15 Z" fill="none" stroke="#00ADD8" stroke-width="1.5"/>
+      <circle cx="13" cy="12" r="1.5" fill="#00ADD8"/>
+      <circle cx="17" cy="12" r="1.5" fill="#00ADD8"/>
+      <path d="M12,17 C13,18 17,18 18,17" fill="none" stroke="#00ADD8" stroke-width="1" stroke-linecap="round"/>
+      <text x="40" y="20" class="tech-label">Golang / Python</text>
+    </g>
+  </g>
+
+  <!-- Column 3: DB & DevOps -->
+  <g transform="translate(400, 10)">
+    <!-- Glow -->
+    <rect class="glow-effect pulse-glow" x="0" y="0" width="180" height="200" rx="12" fill="#8B5CF6" />
+    <!-- Card -->
+    <rect class="tech-card" x="0" y="0" width="180" height="200" />
+    <!-- Indicator line -->
+    <rect x="0" y="0" width="180" height="4" rx="2" fill="url(#gradient-cloud)" />
+    <!-- Title -->
+    <text x="20" y="35" class="section-title">Database / Ops</text>
+    
+    <!-- Items -->
+    <!-- PostgreSQL -->
+    <g transform="translate(20, 55)">
+      <circle cx="15" cy="15" r="14" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+      <path d="M10,13 C10,11 11,9 13,9 C15,9 16,10 17,11 C18,10 19,9 21,9 C23,9 24,11 24,13 C24,17 21,20 17,21 C13,20 10,17 10,13 Z" fill="none" stroke="#4169E1" stroke-width="1.5"/>
+      <path d="M17,11 L17,21" fill="none" stroke="#4169E1" stroke-width="1.5"/>
+      <text x="40" y="20" class="tech-label">PostgreSQL / SQL</text>
+    </g>
+    <!-- MongoDB / Redis -->
+    <g transform="translate(20, 95)">
+      <circle cx="15" cy="15" r="14" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+      <path d="M15,7 C12,11 11,15 15,23 C19,15 18,11 15,7 Z" fill="none" stroke="#47A248" stroke-width="1.5"/>
+      <path d="M15,7 L15,23" fill="none" stroke="#47A248" stroke-width="1"/>
+      <text x="40" y="20" class="tech-label">MongoDB / Redis</text>
+    </g>
+    <!-- Docker -->
+    <g transform="translate(20, 135)">
+      <circle cx="15" cy="15" r="14" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+      <rect x="11" y="11" width="3" height="3" fill="#2496ED"/>
+      <rect x="15" y="11" width="3" height="3" fill="#2496ED"/>
+      <rect x="19" y="11" width="3" height="3" fill="#2496ED"/>
+      <rect x="15" y="7" width="3" height="3" fill="#2496ED"/>
+      <path d="M9,15 C9,19 12,21 16,21 C20,21 21,19 21,17 C21,16 20,15 19,15 C18,15 18,16 16,16 C14,16 13,15 13,15" fill="none" stroke="#2496ED" stroke-width="1.5" stroke-linecap="round"/>
+      <text x="40" y="20" class="tech-label">Docker &amp; K8s</text>
+    </g>
+  </g>
+
+  <!-- Column 4: Design & Tools -->
+  <g transform="translate(595, 10)">
+    <!-- Glow -->
+    <rect class="glow-effect pulse-glow" x="0" y="0" width="180" height="200" rx="12" fill="#F59E0B" />
+    <!-- Card -->
+    <rect class="tech-card" x="0" y="0" width="180" height="200" />
+    <!-- Indicator line -->
+    <rect x="0" y="0" width="180" height="4" rx="2" fill="url(#gradient-tools)" />
+    <!-- Title -->
+    <text x="20" y="35" class="section-title">Tools &amp; Design</text>
+    
+    <!-- Items -->
+    <!-- Git -->
+    <g transform="translate(20, 55)">
+      <circle cx="15" cy="15" r="14" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+      <path d="M15,8 L21,14 L15,20 L9,14 Z" fill="none" stroke="#F05032" stroke-width="1.5"/>
+      <circle cx="15" cy="11" r="1.5" fill="#F05032"/>
+      <circle cx="15" cy="17" r="1.5" fill="#F05032"/>
+      <circle cx="12" cy="14" r="1.5" fill="#F05032"/>
+      <path d="M15,12.5 L15,15.5 M15,14 L13.5,14" fill="none" stroke="#F05032" stroke-width="1.5"/>
+      <text x="40" y="20" class="tech-label">Git / Github</text>
+    </g>
+    <!-- Figma -->
+    <g transform="translate(20, 95)">
+      <circle cx="15" cy="15" r="14" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+      <path d="M12,11 A3,3 0 0,1 15,8 A3,3 0 0,1 18,11 A3,3 0 0,1 15,14 A3,3 0 0,1 12,11 Z" fill="none" stroke="#F24E1E" stroke-width="1.2"/>
+      <circle cx="13.5" cy="15" r="1.5" fill="#A259FF"/>
+      <circle cx="16.5" cy="15" r="1.5" fill="#1ABC9C"/>
+      <circle cx="13.5" cy="19" r="1.5" fill="#0ACF83"/>
+      <text x="40" y="20" class="tech-label">Figma / UI Design</text>
+    </g>
+    <!-- Linux -->
+    <g transform="translate(20, 135)">
+      <circle cx="15" cy="15" r="14" fill="#1F2937" stroke="#374151" stroke-width="1"/>
+      <!-- Linux Penguin Silhouette simplified -->
+      <path d="M15,8 C13,8 11,10 11,13 C11,14 11.5,15 12,16 C11,17 10,18 10,19 C10,21 12,22 15,22 C18,22 20,21 20,19 C20,18 19,17 18,16 C18.5,15 19,14 19,13 C19,10 17,8 15,8 Z" fill="none" stroke="#FCC624" stroke-width="1.5"/>
+      <text x="40" y="20" class="tech-label">Linux / Bash</text>
+    </g>
+  </g>
+</svg>
