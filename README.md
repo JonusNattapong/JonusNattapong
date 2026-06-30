@@ -38,16 +38,15 @@
 
 <br />
 
-<!-- STATISTICS -->
+<!-- STATISTICS (RELIABLE & WORKING ONLY) -->
 <p align="center">
-  <!-- GitHub Metrics and Streak Side by Side -->
-  <img src="github-metrics.svg" width="49%" alt="GitHub Metrics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonusNattapong&theme=tokyonight&background=0D0F19&hide_border=true&ring=8B5CF6&fire=EC4899&stroke=374151&currStreakLabel=06B6D4" width="49%" alt="GitHub Streak" />
+  <!-- GitHub Streak Card (Responsive width) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonusNattapong&theme=tokyonight&background=0D0F19&hide_border=true&ring=8B5CF6&fire=EC4899&stroke=374151&currStreakLabel=06B6D4" width="80%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JonusNattapong&show_icons=true&theme=transparent&title_color=3B82F6&icon_color=8B5CF6&text_color=9CA3AF&bg_color=0D0F19&hide_border=true" width="80%" alt="GitHub Stats" />
+  <!-- Detailed GitHub Metrics Card (Generated locally via Actions daily) -->
+  <img src="github-metrics.svg" width="80%" alt="GitHub Metrics" />
 </p>
 
 <br />
