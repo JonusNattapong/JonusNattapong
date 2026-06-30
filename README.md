@@ -1,27 +1,44 @@
 <!-- MAIN HEADER -->
 <p align="center">
-  <img src="header.svg" width="100%" alt="Jonus Nattapong" />
+  <img src="header.svg" width="100%" alt="Jonus Nattapong Header" />
 </p>
 
-<!-- FLUID BIO INTRO -->
-<p align="center">
-  Hi! I am <strong>Nattapong Tapachoom (Jonus)</strong>, a software developer focused on building fast, modern, and scalable digital systems. 
-  I enjoy exploring new technologies, writing clean code, and architecting efficient workflows.
-</p>
-
-<p align="center">
-  🚀 Currently developing web applications with <strong>React</strong>, <strong>Next.js</strong>, and <strong>Node.js (NestJS)</strong> 
-  • 💡 Deeply interested in <strong>Cloud Native</strong>, <strong>DevOps</strong>, and <strong>Systems Architecture</strong> 
-  • 🌱 Actively expanding my expertise in <strong>Golang</strong>, <strong>Docker</strong>, and <strong>Kubernetes</strong>.
-</p>
+<!-- SIDE-BY-SIDE BIO WITH AVATAR -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; margin: 20px auto;">
+  <tr style="border: none;">
+    <td align="center" valign="middle" width="200" style="border: none; padding: 10px;">
+      <img src="profile.png" width="150" style="border-radius: 50%; border: 3px solid #8B5CF6; box-shadow: 0 0 15px rgba(139, 92, 246, 0.4);" alt="Profile Avatar" />
+    </td>
+    <td align="left" valign="middle" style="border: none; padding: 10px 20px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: #E5E7EB;">
+      <p style="font-size: 1.1em; margin: 0 0 10px 0;">
+        Hi! I am <strong>Nattapong Tapachoom (Jonus)</strong>, a software developer focused on building fast, modern, and scalable digital systems. I enjoy exploring new technologies, writing clean code, and architecting efficient workflows.
+      </p>
+      <p style="font-size: 0.95em; margin: 0; line-height: 1.5;">
+        🚀 Currently developing web applications with <strong>React</strong>, <strong>Next.js</strong>, and <strong>Node.js (NestJS)</strong><br />
+        💡 Deeply interested in <strong>Cloud Native</strong>, <strong>DevOps</strong>, and <strong>Systems Architecture</strong><br />
+        🌱 Actively expanding my expertise in <strong>Golang</strong>, <strong>Docker</strong>, and <strong>Kubernetes</strong>.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
-<!-- COHESIVE VISUAL FLOW: TECH STACK & METRICS -->
+<!-- COHESIVE VISUAL FLOW: TECH STACK -->
 <p align="center">
   <img src="tech-stack.svg" width="100%" alt="Tech Stack" />
 </p>
 
+<br />
+
+<!-- GRAPHIC DIVIDER: GENERATED 3D ILLUSTRATION -->
+<p align="center">
+  <img src="tech_banner.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" alt="Abstract Tech Banner" />
+</p>
+
+<br />
+
+<!-- STATISTICS -->
 <p align="center">
   <!-- GitHub Metrics and Streak Side by Side -->
   <img src="github-metrics.svg" width="49%" alt="GitHub Metrics" />
