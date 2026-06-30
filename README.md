@@ -1,6 +1,6 @@
 <!-- MAIN HEADER -->
 <p align="center">
-  <img src="header.svg" width="100%" alt="Jonus Nattapong Header" />
+  <img src="https://raw.githubusercontent.com/JonusNattapong/JonusNattapong/main/header.svg" width="100%" alt="Jonus Nattapong Header" />
 </p>
 
 <!-- BIO INTRO -->
@@ -19,7 +19,7 @@
 
 <!-- TECH STACK CARD -->
 <p align="center">
-  <img src="tech-stack.svg" width="100%" alt="Tech Stack" />
+  <img src="https://raw.githubusercontent.com/JonusNattapong/JonusNattapong/main/tech-stack.svg" width="100%" alt="Tech Stack" />
 </p>
 
 <br />
@@ -32,14 +32,14 @@
 
 <p align="center">
   <!-- Detailed GitHub Metrics Card (Generated locally via Actions daily) -->
-  <img src="github-metrics.svg" width="80%" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/JonusNattapong/JonusNattapong/main/github-metrics.svg" width="80%" alt="GitHub Metrics" />
 </p>
 
 <br />
 
 <!-- FOOTER CONNECT CARD -->
 <p align="center">
-  <img src="contact-card.svg" width="100%" alt="Connect Card" />
+  <img src="https://raw.githubusercontent.com/JonusNattapong/JonusNattapong/main/contact-card.svg" width="100%" alt="Connect Card" />
 </p>
 
 <p align="center">
