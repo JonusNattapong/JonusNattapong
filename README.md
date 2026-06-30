@@ -26,8 +26,8 @@
 
 <!-- STATISTICS -->
 <p align="center">
-  <!-- GitHub Streak Card (Responsive width) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonusNattapong&theme=tokyonight&background=0D0F19&hide_border=true&ring=8B5CF6&fire=EC4899&stroke=374151&currStreakLabel=06B6D4" width="80%" alt="GitHub Streak" />
+  <!-- Custom GitHub Stats Card (Highly styled & 100% stable) -->
+  <img src="https://raw.githubusercontent.com/JonusNattapong/JonusNattapong/main/github-stats.svg" width="100%" alt="GitHub Stats" />
 </p>
 
 <p align="center">
